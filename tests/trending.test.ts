@@ -32,6 +32,16 @@ describe("isSameModel", () => {
     expect(isSameModel("org/abcd", "other/abcd")).toBe(true);
     expect(isSameModel("org/abc", "other/abc")).toBe(false);
   });
+
+  it("handles an id with no org prefix (no slash) instead of throwing", () => {
+    expect(() => isSameModel("llama-3.1-8b", "llama-3.1-8b")).not.toThrow();
+    expect(isSameModel("llama-3.1-8b", "llama-3.1-8b")).toBe(true);
+  });
+
+  it("handles an empty string id instead of throwing", () => {
+    expect(() => isSameModel("", "org/model")).not.toThrow();
+    expect(isSameModel("", "org/model")).toBe(false);
+  });
 });
 
 describe("matchTrending", () => {
