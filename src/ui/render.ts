@@ -81,10 +81,18 @@ export function renderResultCard(rec: Recommendation, spec: RigSpec): HTMLElemen
   return card;
 }
 
+const BLUEPRINT_ICON = `
+  <svg viewBox="0 0 48 48" width="40" height="40" aria-hidden="true">
+    <rect x="14" y="14" width="20" height="20" rx="2" fill="none" stroke="currentColor" stroke-width="1.5" />
+    <rect x="20" y="20" width="8" height="8" rx="1" fill="none" stroke="currentColor" stroke-width="1.5" />
+    <path d="M14 20H6M14 28H6M34 20h8M34 28h8M20 14V6M28 14V6M20 34v8M28 34v8" stroke="currentColor" stroke-width="1.5" />
+  </svg>
+`;
+
 export function renderEmptyState(message: string): HTMLElement {
-  const empty = document.createElement("p");
+  const empty = document.createElement("div");
   empty.className = "results-empty";
-  empty.textContent = message;
+  empty.innerHTML = `${BLUEPRINT_ICON}<p>${message}</p>`;
   return empty;
 }
 
