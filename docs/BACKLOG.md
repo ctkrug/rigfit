@@ -8,7 +8,7 @@ must land before anything else in this backlog.
 
 The reverse solver: hardware in, ranked models out. This is the product.
 
-- [ ] **1.1 Rig input → ranked recommendations (wow moment)**
+- [x] **1.1 Rig input → ranked recommendations (wow moment)**
   Build the input form (VRAM GB, RAM GB, optional GPU model dropdown) and
   wire it to the solver so submitting renders a ranked list of model+quant
   cards, each with a fit badge.
@@ -19,7 +19,7 @@ The reverse solver: hardware in, ranked models out. This is the product.
   - Submitting with no VRAM value shows an inline validation message and
     does not call the solver.
 
-- [ ] **1.2 Full constraint solver (context length + RAM offload)**
+- [x] **1.2 Full constraint solver (context length + RAM offload)**
   Extend `src/lib/solver.ts` beyond the scaffold's VRAM-only check to factor
   in usable context length at the selected quant and a RAM-offload fallback
   path for borderline fits.
@@ -33,7 +33,7 @@ The reverse solver: hardware in, ranked models out. This is the product.
     fit, and a rig too small for anything in the catalog (empty-but-honest
     result, not a crash).
 
-- [ ] **1.3 Expand the model catalog**
+- [x] **1.3 Expand the model catalog**
   Grow `data/models.json` from the scaffold's 8 seed entries to a
   meaningfully broad catalog spanning small (≤8GB), medium (8–24GB), and
   large (24GB+) VRAM tiers.
@@ -43,7 +43,7 @@ The reverse solver: hardware in, ranked models out. This is the product.
     (spot-checked against the model's published card/GGUF quant table).
   - `npm test` still passes with the expanded catalog (no schema drift).
 
-- [ ] **1.4 Fit badge detail view**
+- [x] **1.4 Fit badge detail view**
   Clicking/tapping a result card expands to show why it got its badge:
   VRAM headroom, context length at this quant vs. the model's max, and
   offload status if applicable.
@@ -56,7 +56,7 @@ The reverse solver: hardware in, ranked models out. This is the product.
 
 Make the ranking reflect what's actually hot this week, not a static list.
 
-- [ ] **2.1 Match trending signal to catalog entries**
+- [x] **2.1 Match trending signal to catalog entries**
   Extend `scripts/refresh-trending.ts` (or a follow-up module) to map
   `data/trending.json` entries to `data/models.json` entries by model ID /
   name similarity.
@@ -65,8 +65,12 @@ Make the ranking reflect what's actually hot this week, not a static list.
     `data/models.json` (manually verified after a real refresh run).
   - Unmatched trending entries are dropped silently (no crash, no orphaned
     references) rather than surfaced as broken UI state.
+  - Implemented and unit-tested (`src/lib/trending.ts`); the "manually
+    verified after a real refresh run" half of this criterion is
+    pending the next live `refresh-data` run against real HF trending
+    data (current `data/trending.json` is a placeholder snapshot).
 
-- [ ] **2.2 Trending boost in ranking**
+- [x] **2.2 Trending boost in ranking**
   Feed the match from 2.1 into the solver so trending models rank above
   otherwise-equal fits.
   - Given two results with an identical fit badge, the one flagged
@@ -84,7 +88,7 @@ Make the ranking reflect what's actually hot this week, not a static list.
   - The resulting commit only touches `data/trending.json` and uses the
     `ctkrug` git identity (no bot/co-author trailer).
 
-- [ ] **2.4 Trending badge in the UI**
+- [x] **2.4 Trending badge in the UI**
   Surface trending status visibly on result cards (2.2's data), not just
   in sort order.
   - A trending result card shows a distinct badge/marker (e.g. "trending
@@ -97,7 +101,7 @@ Make the ranking reflect what's actually hot this week, not a static list.
 Ship the blueprint direction for real, at every breakpoint, and make sure
 the whole pipeline is trustworthy.
 
-- [ ] **3.1 Implement the blueprint design system**
+- [x] **3.1 Implement the blueprint design system**
   Replace the scaffold's placeholder styling with the full direction from
   `docs/DESIGN.md`: fonts loaded, grid background, dimension-mark corners,
   themed form controls, scan-line sweep on submit.
@@ -108,7 +112,7 @@ the whole pipeline is trustworthy.
   - Submitting triggers the scan-line sweep animation, and it's skipped
     when `prefers-reduced-motion` is set.
 
-- [ ] **3.2 Responsive layout across breakpoints**
+- [x] **3.2 Responsive layout across breakpoints**
   Compose the two-column desktop layout and the stacked mobile layout
   described in `docs/DESIGN.md`'s Layout Intent.
   - No horizontal scroll or overlapping elements at 390px, 768px, or
@@ -117,15 +121,19 @@ the whole pipeline is trustworthy.
   - Result cards remain legible (no text truncation cutting off model
     names) at 390px.
 
-- [ ] **3.3 Empty, loading, and error states**
+- [x] **3.3 Empty, loading, and error states**
   Design explicit states for: no rig entered yet, solver running, and a
   rig too small/large for any catalog match.
   - First page load (before any submission) shows a designed empty state,
     not a blank results panel.
   - A rig with no viable matches shows a specific "nothing fits — try a
     lower-VRAM model tier" message, not an empty list with no explanation.
+  - No separate "solver running" state: `recommend()` runs synchronously
+    over an in-memory catalog (no network round-trip), so there's no
+    perceptible gap to design a spinner for — the scan-line sweep is the
+    "your rig is being analyzed" moment instead, per `docs/DESIGN.md`.
 
-- [ ] **3.4 Favicon and wordmark**
+- [x] **3.4 Favicon and wordmark**
   Add a code-generated favicon (inline SVG, blueprint-cyan monogram) and a
   designed wordmark treatment for "Rig Planner" in the header.
   - `index.html` references a custom favicon (no default Vite/browser
@@ -141,3 +149,6 @@ the whole pipeline is trustworthy.
     Epic 2 land.
   - `npm test` includes at least one test per fit level (green/yellow/red)
     and one for the empty-catalog-match case.
+  - `npm run typecheck && npm test && npm run build` all pass locally as
+    of this run (80 tests). Leaving unchecked until a real Actions run on
+    `main` confirms it in CI, not just locally.
