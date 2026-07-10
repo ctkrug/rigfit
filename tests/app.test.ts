@@ -24,6 +24,19 @@ describe("app", () => {
     expect(document.querySelectorAll(".result-card").length).toBe(0);
   });
 
+  it("marks the results region as a live region so updates are announced", () => {
+    expect(document.querySelector("#results")?.getAttribute("aria-live")).toBe("polite");
+  });
+
+  it("gives the input and results sections accessible landmark labels", () => {
+    expect(document.querySelector('section[aria-label="Rig input"]')).not.toBeNull();
+    expect(document.querySelector('section[aria-label="Recommendations"]')).not.toBeNull();
+  });
+
+  it("marks the validation error as an alert region for assistive tech", () => {
+    expect(document.querySelector("#form-error")?.getAttribute("role")).toBe("alert");
+  });
+
   it("renders at least 3 ranked result cards without a page reload after a valid submission", () => {
     (document.querySelector("#vram") as HTMLInputElement).value = "12";
     (document.querySelector("#ram") as HTMLInputElement).value = "32";
