@@ -19,8 +19,18 @@ export interface ModelVariant {
 
 export type FitLevel = "green" | "yellow" | "red";
 
-export interface Recommendation {
-  variant: ModelVariant;
+/** The outcome of evaluating one variant against a rig, before ranking. */
+export interface FitResult {
   fit: FitLevel;
+  /** Context length (tokens) actually achievable within the available budget. */
+  achievableContext: number;
+  /** Whether reaching this fit required offloading layers to system RAM. */
+  offloaded: boolean;
+  /** VRAM (or, when offloaded, RAM) headroom in GB at the achievable context. Can be negative. */
+  headroomGb: number;
+}
+
+export interface Recommendation extends FitResult {
+  variant: ModelVariant;
   trending: boolean;
 }
