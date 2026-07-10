@@ -14,9 +14,9 @@
     "refresh-data": "tsx scripts/refresh-trending.ts"
   },
   "devDependencies": {
-    "typescript": "^5.6.3",
-    "vite": "^5.4.11",
-    "vitest": "^2.1.8",
-    "tsx": "^4.19.2"
+    "typescript": "^7.0.2",
+    "vite": "^8.1.4",
+    "vitest": "^4.1.10",
+    "tsx": "^4.23.0"
   }
 }
