@@ -10,6 +10,14 @@ describe("GPU_PRESETS", () => {
     const ids = new Set(GPU_PRESETS.map((p) => p.id));
     expect(ids.size).toBe(GPU_PRESETS.length);
   });
+
+  it("reserves a plausible, positive slice of VRAM for every real preset", () => {
+    for (const preset of GPU_PRESETS) {
+      expect(preset.reservedGb).toBeGreaterThan(0);
+      expect(usableVramGb(preset)).toBeGreaterThan(0);
+      expect(usableVramGb(preset)).toBeLessThan(preset.vramGb);
+    }
+  });
 });
 
 describe("usableVramGb", () => {
