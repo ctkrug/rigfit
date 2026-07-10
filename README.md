@@ -63,8 +63,11 @@ npm run refresh-data  # run the trending-data refresh script locally
 
 ## Status
 
-Early scope/scaffold stage — see `docs/VISION.md` for the plan and
-`docs/BACKLOG.md` for what's built vs. planned.
+The core recommendation engine is live: enter VRAM + RAM, get a ranked,
+badge-scored list of local LLMs pulled from a 22-entry catalog spanning
+15 base models, with trending models boosted to the top. See
+`docs/VISION.md` for the plan, `docs/ARCHITECTURE.md` for how it fits
+together, and `docs/BACKLOG.md` for what's built vs. planned.
 
 ## License
 
