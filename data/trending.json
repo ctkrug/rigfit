@@ -1,26 +1,26 @@
 {
-  "fetchedAt": "2026-07-10T19:26:07.845Z",
+  "fetchedAt": "2026-07-10T22:49:48.889Z",
   "entries": [
     {
       "source": "huggingface",
       "id": "tencent/Hy3",
       "title": "tencent/Hy3",
       "url": "https://huggingface.co/tencent/Hy3",
-      "score": 632
+      "score": 637
     },
     {
       "source": "huggingface",
       "id": "zai-org/GLM-5.2",
       "title": "zai-org/GLM-5.2",
       "url": "https://huggingface.co/zai-org/GLM-5.2",
-      "score": 345
+      "score": 344
     },
     {
       "source": "huggingface",
       "id": "InternScience/Agents-A1",
       "title": "InternScience/Agents-A1",
       "url": "https://huggingface.co/InternScience/Agents-A1",
-      "score": 250
+      "score": 252
     },
     {
       "source": "hackernews",
@@ -41,21 +41,21 @@
       "id": "meituan-longcat/LongCat-2.0",
       "title": "meituan-longcat/LongCat-2.0",
       "url": "https://huggingface.co/meituan-longcat/LongCat-2.0",
-      "score": 167
+      "score": 168
     },
     {
       "source": "huggingface",
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "score": 145
+      "score": 143
     },
     {
       "source": "huggingface",
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "score": 131
+      "score": 132
     },
     {
       "source": "huggingface",
@@ -69,13 +69,20 @@
       "id": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
       "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
-      "score": 101
+      "score": 98
     },
     {
       "source": "huggingface",
       "id": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
       "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "score": 97
+    },
+    {
+      "source": "huggingface",
+      "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
       "score": 95
     },
     {
@@ -83,42 +90,35 @@
       "id": "nvidia/Qwen3.6-27B-NVFP4",
       "title": "nvidia/Qwen3.6-27B-NVFP4",
       "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
-      "score": 93
-    },
-    {
-      "source": "huggingface",
-      "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-      "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
       "score": 92
-    },
-    {
-      "source": "huggingface",
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "score": 90
     },
     {
       "source": "huggingface",
       "id": "nvidia/Nemotron-Labs-Audex-30B-A3B",
       "title": "nvidia/Nemotron-Labs-Audex-30B-A3B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B",
-      "score": 90
+      "score": 91
+    },
+    {
+      "source": "huggingface",
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "score": 89
     },
     {
       "source": "huggingface",
       "id": "SupraLabs/Supra-Router-51M",
       "title": "SupraLabs/Supra-Router-51M",
       "url": "https://huggingface.co/SupraLabs/Supra-Router-51M",
-      "score": 83
+      "score": 85
     },
     {
       "source": "hackernews",
       "id": "48816724",
       "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
       "url": "https://github.com/Rodiun/frugon",
-      "score": 38
+      "score": 45
     },
     {
       "source": "hackernews",
@@ -139,13 +139,6 @@
       "id": "48827915",
       "title": "Self-Hosting My Own LLMs",
       "url": "https://davidbarnhart.com/llm/local-llm-setup.html",
-      "score": 4
-    },
-    {
-      "source": "hackernews",
-      "id": "48802741",
-      "title": "Show HN: PAI, a Linux-y personal-assistant for Mac",
-      "url": "https://www.whitematterlabs.ai/",
       "score": 4
     },
     {
@@ -244,6 +237,13 @@
       "id": "48830828",
       "title": "Show HN: CodeRadius, map and govern multi repo architectures",
       "url": "https://coderadius.ai",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "48850008",
+      "title": "Show HN: Trollbridge – let your agent run YOLO but without the whole internet",
+      "url": "https://trollbridge.dev/",
       "score": 1
     }
   ]
