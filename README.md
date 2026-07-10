@@ -1,5 +1,7 @@
 # Rig Planner
 
+[![CI](https://github.com/ctkrug/rig-planner/actions/workflows/ci.yml/badge.svg)](https://github.com/ctkrug/rig-planner/actions/workflows/ci.yml)
+
 Tell it your GPU and RAM. It tells you the best local LLM — and the exact
 quantization — you can actually run *this week*.
 
