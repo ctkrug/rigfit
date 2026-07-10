@@ -33,4 +33,9 @@ describe("recommend", () => {
     const result = recommend(rig, catalog);
     expect(result.map((v) => v.minVramGb)).toEqual([6, 11]);
   });
+
+  it("returns an empty array, not a throw, when nothing in the catalog fits", () => {
+    const catalog = [variant(24), variant(48)];
+    expect(recommend(rig, catalog)).toEqual([]);
+  });
 });
