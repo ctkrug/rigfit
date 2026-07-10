@@ -31,6 +31,11 @@ describe("formatContext", () => {
   it("formats sub-1000 values plainly", () => {
     expect(formatContext(500)).toBe("500 tokens");
   });
+
+  it("formats exactly 1000 as a whole thousand, and 0 as plain tokens", () => {
+    expect(formatContext(1000)).toBe("1K tokens");
+    expect(formatContext(0)).toBe("0 tokens");
+  });
 });
 
 describe("formatHeadroom", () => {
@@ -42,6 +47,12 @@ describe("formatHeadroom", () => {
   it("explains a shortfall when headroom is negative", () => {
     const result = formatHeadroom(rec({ headroomGb: -1.2 }), { vramGb: 12, ramGb: 32 });
     expect(result).toContain("short");
+  });
+
+  it("labels exactly-zero headroom as headroom, not a shortfall", () => {
+    const result = formatHeadroom(rec({ headroomGb: 0 }), { vramGb: 12, ramGb: 32 });
+    expect(result).toContain("headroom");
+    expect(result).not.toContain("short");
   });
 
   it("reports against RAM, not VRAM, when the fit required offload", () => {
