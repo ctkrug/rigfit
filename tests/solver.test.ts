@@ -43,6 +43,16 @@ describe("evaluateFit — VRAM-only context truncation", () => {
     expect(result.achievableContext).toBe(4096);
   });
 
+  it("is green at exactly the 2GB headroom floor, yellow just below it", () => {
+    const atFloor = evaluateFit(rig, variant({ minVramGb: 8, sizeGb: 8, contextLength: 12500 }));
+    expect(atFloor.headroomGb).toBe(2);
+    expect(atFloor.fit).toBe("green");
+
+    const justBelow = evaluateFit(rig, variant({ minVramGb: 8, sizeGb: 8, contextLength: 12600 }));
+    expect(justBelow.headroomGb).toBeLessThan(2);
+    expect(justBelow.fit).toBe("yellow");
+  });
+
   it("is red with zero achievable context when weights consume all available VRAM exactly", () => {
     const result = evaluateFit(rig, variant({ minVramGb: rig.vramGb, sizeGb: 10 }));
     expect(result.fit).toBe("red");
