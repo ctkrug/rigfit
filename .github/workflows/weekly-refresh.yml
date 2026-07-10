@@ -1,0 +1,33 @@
+name: Weekly trending refresh
+
+on:
+  schedule:
+    # Every Monday at 09:00 UTC
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+      - run: npm run refresh-data
+
+      - name: Commit updated trending data
+        run: |
+          git config user.name "ctkrug"
+          git config user.email "ctkrug4501@gmail.com"
+          git diff --quiet data/trending.json && exit 0
+          git add data/trending.json
+          git commit -m "data: refresh weekly trending snapshot"
+          git push
