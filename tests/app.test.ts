@@ -75,7 +75,7 @@ describe("app", () => {
 
     submit();
 
-    const raw = vi.mocked(validateRigInput).mock.calls[0][0];
+    const raw = vi.mocked(validateRigInput).mock.calls[0]![0];
     expect(raw.gpuModel).toBeUndefined();
   });
 
