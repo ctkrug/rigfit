@@ -1,0 +1,45 @@
+/* Design tokens — see docs/DESIGN.md for the full blueprint/technical direction. */
+:root {
+  --bg: #0a1929;
+  --surface-1: #0f2439;
+  --surface-2: #15304a;
+  --text: #e8f1f8;
+  --text-muted: #7fa8c9;
+  --accent: #4fd1ff;
+  --accent-support: #ff8a4f;
+  --success: #4ade80;
+  --warning: #fbbf24;
+  --danger: #f87171;
+  --radius: 4px;
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+.scaffold {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: var(--space-4) var(--space-2);
+}
+
+.scaffold h1 {
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  color: var(--accent);
+}
+
+.scaffold p {
+  color: var(--text-muted);
+}
