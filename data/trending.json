@@ -1,0 +1,250 @@
+{
+  "fetchedAt": "2026-07-10T19:26:07.845Z",
+  "entries": [
+    {
+      "source": "huggingface",
+      "id": "tencent/Hy3",
+      "title": "tencent/Hy3",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "score": 632
+    },
+    {
+      "source": "huggingface",
+      "id": "zai-org/GLM-5.2",
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "score": 345
+    },
+    {
+      "source": "huggingface",
+      "id": "InternScience/Agents-A1",
+      "title": "InternScience/Agents-A1",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "score": 250
+    },
+    {
+      "source": "hackernews",
+      "id": "48819808",
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 216
+    },
+    {
+      "source": "huggingface",
+      "id": "AliesTaha/fable-traces",
+      "title": "AliesTaha/fable-traces",
+      "url": "https://huggingface.co/AliesTaha/fable-traces",
+      "score": 190
+    },
+    {
+      "source": "huggingface",
+      "id": "meituan-longcat/LongCat-2.0",
+      "title": "meituan-longcat/LongCat-2.0",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-2.0",
+      "score": 167
+    },
+    {
+      "source": "huggingface",
+      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "score": 145
+    },
+    {
+      "source": "huggingface",
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "score": 131
+    },
+    {
+      "source": "huggingface",
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "score": 123
+    },
+    {
+      "source": "huggingface",
+      "id": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+      "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+      "score": 101
+    },
+    {
+      "source": "huggingface",
+      "id": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "score": 95
+    },
+    {
+      "source": "huggingface",
+      "id": "nvidia/Qwen3.6-27B-NVFP4",
+      "title": "nvidia/Qwen3.6-27B-NVFP4",
+      "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+      "score": 93
+    },
+    {
+      "source": "huggingface",
+      "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "score": 92
+    },
+    {
+      "source": "huggingface",
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "score": 90
+    },
+    {
+      "source": "huggingface",
+      "id": "nvidia/Nemotron-Labs-Audex-30B-A3B",
+      "title": "nvidia/Nemotron-Labs-Audex-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B",
+      "score": 90
+    },
+    {
+      "source": "huggingface",
+      "id": "SupraLabs/Supra-Router-51M",
+      "title": "SupraLabs/Supra-Router-51M",
+      "url": "https://huggingface.co/SupraLabs/Supra-Router-51M",
+      "score": 83
+    },
+    {
+      "source": "hackernews",
+      "id": "48816724",
+      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "url": "https://github.com/Rodiun/frugon",
+      "score": 38
+    },
+    {
+      "source": "hackernews",
+      "id": "48847526",
+      "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
+      "url": "https://kastra.ai/",
+      "score": 12
+    },
+    {
+      "source": "hackernews",
+      "id": "48836288",
+      "title": "Ask HN: How you manage local long lived research projects and LLM's?",
+      "url": "https://news.ycombinator.com/item?id=48836288",
+      "score": 6
+    },
+    {
+      "source": "hackernews",
+      "id": "48827915",
+      "title": "Self-Hosting My Own LLMs",
+      "url": "https://davidbarnhart.com/llm/local-llm-setup.html",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "48802741",
+      "title": "Show HN: PAI, a Linux-y personal-assistant for Mac",
+      "url": "https://www.whitematterlabs.ai/",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "48809994",
+      "title": "DGX Spark Local LLM Benchmark: Administrative Tasks",
+      "url": "https://www.aai-labs.com/en/research/local-llm-benchmark-administrative-tasks",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "48854066",
+      "title": "Ask HN: What are you running locally on your machine with LLMs?",
+      "url": "https://news.ycombinator.com/item?id=48854066",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "48845268",
+      "title": "Show HN: Slopera, a browser that hallucinates every page with an LLM",
+      "url": "https://github.com/fresswolf/Slopera",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "48855138",
+      "title": "Show HN: TensorSharp: Open-Source Local LLM Inference Engine",
+      "url": "https://tensorsharp.ai/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48843409",
+      "title": "Relm – local LLMs as base-R objects, with interpretability",
+      "url": "https://github.com/Vadale/R-ebirth",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48818823",
+      "title": "PrivAiTe, a local LLM proxy that redacts PII in tool-call arguments",
+      "url": "https://github.com/crp4222/PrivAiTe",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48804448",
+      "title": "Show HN: BurstyRouter: local LLM first then burst to end-to-end encrypted LLM",
+      "url": "https://github.com/Lore-Hex/BurstyRouter",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48796042",
+      "title": "Show HN: Goldseam – heal broken Cypress selectors with a local LLM",
+      "url": "https://github.com/adam-s/goldseam",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48833657",
+      "title": "Show HN: I built a $90 terminal to find where locals eat via spatial gravity",
+      "url": "https://hungrybutnotstupid.com/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48791740",
+      "title": "Fidx – local semantic search in one SQLite file, no LLM at query",
+      "url": "https://github.com/williamliu-ai/fidx",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48863722",
+      "title": "Show HN: Local Motion – Use Cursor Agents and Chat with a Local LLM",
+      "url": "https://github.com/mattmireles/local-motion",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "48855960",
+      "title": "Ask HN: Recommend a Local LLM Setup (M2 Max, 9GB)",
+      "url": "https://news.ycombinator.com/item?id=48855960",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "48822627",
+      "title": "Squish, a local LLM inference server for Apple Silicon",
+      "url": "https://squish.run/blog/local-llm-fast-enough/",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "48830828",
+      "title": "Show HN: CodeRadius, map and govern multi repo architectures",
+      "url": "https://coderadius.ai",
+      "score": 1
+    }
+  ]
+}
