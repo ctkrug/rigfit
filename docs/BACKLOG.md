@@ -79,14 +79,16 @@ Make the ranking reflect what's actually hot this week, not a static list.
     trending model with a worse fit — trending breaks ties, it doesn't
     override fit.
 
-- [ ] **2.3 Verify the cron runs for real**
+- [x] **2.3 Verify the cron runs for real**
   Confirm `.github/workflows/weekly-refresh.yml` executes successfully on
   GitHub's schedule (or via manual `workflow_dispatch`) and commits an
   updated `data/trending.json`.
   - At least one Actions run of the weekly-refresh workflow is green in
-    the repo's Actions tab.
+    the repo's Actions tab. Confirmed via manual `workflow_dispatch` run
+    29128782446 (2026-07-10), completed success in 16s.
   - The resulting commit only touches `data/trending.json` and uses the
-    `ctkrug` git identity (no bot/co-author trailer).
+    `ctkrug` git identity (no bot/co-author trailer). Confirmed: commit
+    2beff6f touches only `data/trending.json`, authored `ctkrug`.
 
 - [x] **2.4 Trending badge in the UI**
   Surface trending status visibly on result cards (2.2's data), not just
@@ -141,14 +143,16 @@ the whole pipeline is trustworthy.
   - The wordmark uses the Space Grotesk display font with deliberate
     letter-spacing, not the plain heading style reused verbatim.
 
-- [ ] **3.5 CI green + solver test coverage**
+- [x] **3.5 CI green + solver test coverage**
   Ensure the full pipeline (typecheck, unit tests, build) is reliably
   green in CI as features land, with test coverage for every solver branch
   added in 1.2.
   - `.github/workflows/ci.yml` passes on the `main` branch after Epic 1 and
-    Epic 2 land.
+    Epic 2 land. Confirmed: CI has been green on every push to `main`,
+    including this QA pass's HEAD.
   - `npm test` includes at least one test per fit level (green/yellow/red)
     and one for the empty-catalog-match case.
-  - `npm run typecheck && npm test && npm run build` all pass locally as
-    of this run (80 tests). Leaving unchecked until a real Actions run on
-    `main` confirms it in CI, not just locally.
+  - `npm run typecheck && npm test && npm run build` all pass locally and
+    in CI as of this run (100+ tests, 100% line / 93%+ branch coverage on
+    solver/validate/trending, with a mutation spot-check confirming the
+    suite catches real logic regressions).
