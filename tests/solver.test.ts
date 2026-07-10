@@ -71,6 +71,14 @@ describe("evaluateFit — RAM offload", () => {
     expect(result.fit).toBe("red");
     expect(result.offloaded).toBe(true);
   });
+
+  it("is red when RAM holds the offloaded weights but leaves too little for a minimal KV cache", () => {
+    const huge = variant({ minVramGb: 48, sizeGb: 48, contextLength: 32768 });
+    const result = evaluateFit({ vramGb: 12, ramGb: 41 }, huge);
+    expect(result.fit).toBe("red");
+    expect(result.offloaded).toBe(true);
+    expect(result.achievableContext).toBeLessThan(2048);
+  });
 });
 
 describe("recommend", () => {
