@@ -65,6 +65,12 @@ describe("evaluateFit — VRAM-only context truncation", () => {
     expect(result.fit).toBe("red");
     expect(result.offloaded).toBe(false);
   });
+
+  it("is usable (not red) at exactly the MIN_USABLE_CONTEXT_TOKENS floor", () => {
+    const atFloor = evaluateFit(rig, variant({ minVramGb: 7.904, sizeGb: 100, contextLength: 100000 }));
+    expect(atFloor.achievableContext).toBe(2048);
+    expect(atFloor.fit).not.toBe("red");
+  });
 });
 
 describe("evaluateFit — RAM offload", () => {
