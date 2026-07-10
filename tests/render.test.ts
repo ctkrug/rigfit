@@ -97,6 +97,6 @@ describe("renderResultsList", () => {
 describe("renderEmptyState", () => {
   it("renders the given message", () => {
     const el = renderEmptyState("try again");
-    expect(el.textContent).toBe("try again");
+    expect(el.querySelector("p")?.textContent).toBe("try again");
   });
 });
