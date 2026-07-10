@@ -16,6 +16,11 @@ describe("model catalog", () => {
     expect(baseModels.size).toBeGreaterThanOrEqual(8);
   });
 
+  it("has no duplicate modelId + quant pairs", () => {
+    const keys = entries.map((e) => `${e.modelId}::${e.quant}`);
+    expect(new Set(keys).size).toBe(keys.length);
+  });
+
   it("spans small, medium, and large VRAM tiers", () => {
     const small = entries.some((e) => e.minVramGb <= 8);
     const medium = entries.some((e) => e.minVramGb > 8 && e.minVramGb <= 24);
