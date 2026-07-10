@@ -3,11 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Rig Planner — find the best local LLM for your hardware</title>
+    <title>Rigfit — the best local LLM your GPU can run</title>
     <meta
       name="description"
-      content="Enter your GPU and RAM. Get a ranked list of local LLMs and quantizations you can run right now, refreshed weekly against what's trending."
+      content="Rigfit tells you what LLM your computer can run: enter your GPU and RAM to get the best local model and quantization, each with a green/yellow/red fit badge."
     />
+    <meta property="og:title" content="Rigfit — the best local LLM your GPU can run" />
+    <meta
+      property="og:description"
+      content="Enter your GPU and RAM and get a ranked list of local LLMs you can actually run right now, with the exact quantization and a fit badge for each."
+    />
+    <meta property="og:type" content="website" />
     <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -19,6 +25,75 @@
   </head>
   <body>
     <div id="app"></div>
+
+    <section class="explainer" aria-labelledby="explainer-title">
+      <div class="explainer__inner">
+        <h2 id="explainer-title">What LLM can my computer run?</h2>
+        <p>
+          The honest answer depends on two numbers: your GPU's VRAM and your system RAM. A model's
+          weight file has to fit in VRAM, and its KV cache grows with the context length you want, so
+          a 7B model at Q4 that fits at a short context can spill over at 32K tokens. Rigfit does that
+          arithmetic for every model and quantization in its catalog and ranks the ones that fit your
+          exact rig, so you stop guessing and downloading 15&nbsp;GB of weights to find out.
+        </p>
+
+        <h3>How Rigfit sizes a model to your rig</h3>
+        <ul class="explainer__list">
+          <li>
+            <strong>Weights in VRAM.</strong> Each quantization (Q4_K_M, Q5_K_M, Q8_0, and so on) has
+            a different file size. Rigfit checks whether the weights fit your VRAM first.
+          </li>
+          <li>
+            <strong>Context in the leftover.</strong> Whatever VRAM is left after the weights holds
+            the KV cache. Rigfit computes the longest context you can actually reach, and marks a fit
+            yellow when it has to truncate the model's full window.
+          </li>
+          <li>
+            <strong>RAM offload as a fallback.</strong> When the weights are a little too big for
+            VRAM, part of the model can run from system RAM. Rigfit includes those fits and flags the
+            offload, instead of silently dropping the model or pretending it runs at full speed.
+          </li>
+        </ul>
+
+        <h3>Frequently asked questions</h3>
+        <dl class="faq">
+          <dt>Can I run this LLM locally?</dt>
+          <dd>
+            Enter your GPU VRAM and system RAM and Rigfit shows every model and quantization that
+            fits, with a green (comfortable), yellow (tight), or red (won't fit) badge. If a model
+            isn't in the ranked list, your current rig can't run it without heavy offload.
+          </dd>
+
+          <dt>Is there a local LLM VRAM calculator?</dt>
+          <dd>
+            Yes. Rigfit is a VRAM calculator that works in reverse. Instead of you plugging one model
+            into a formula, it runs the weight and KV-cache math across a whole catalog and returns
+            the models that fit, ranked by how much headroom they leave.
+          </dd>
+
+          <dt>What's the best model for my GPU?</dt>
+          <dd>
+            The best model is the largest, highest-quality quantization that still fits your VRAM at a
+            usable context length. Rigfit sorts by fit quality first, then boosts models that are
+            trending on Hugging Face this week, so the top of the list is a genuinely good pick right
+            now rather than the biggest name.
+          </dd>
+
+          <dt>How often is the trending list updated?</dt>
+          <dd>
+            A scheduled script pulls trending text-generation models from Hugging Face and recent
+            local-LLM discussion from Hacker News once a week, so a model that's picking up steam
+            moves toward the top of your matched results.
+          </dd>
+        </dl>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <a class="site-footer__gh" href="https://github.com/ctkrug/rig-planner">View Rigfit on GitHub</a>
+      <a class="site-footer__more" href="https://apps.charliekrug.com">More by Charlie Krug &rarr; apps.charliekrug.com</a>
+    </footer>
+
     <script type="module" src="./src/main.ts"></script>
   </body>
 </html>
