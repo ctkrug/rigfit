@@ -13,6 +13,14 @@ function submit(): void {
   form.dispatchEvent(new Event("submit", { cancelable: true, bubbles: true }));
 }
 
+describe("mountApp on a host page missing #app", () => {
+  it("is a no-op instead of throwing", () => {
+    document.body.innerHTML = "<div>no app mount point here</div>";
+    expect(() => mountApp()).not.toThrow();
+    expect(document.querySelector(".results-empty")).toBeNull();
+  });
+});
+
 describe("app", () => {
   beforeEach(() => {
     document.body.innerHTML = '<div id="app"></div>';
