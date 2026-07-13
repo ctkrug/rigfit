@@ -1,131 +1,138 @@
 {
-  "fetchedAt": "2026-07-10T22:49:48.889Z",
+  "fetchedAt": "2026-07-13T12:13:02.950Z",
   "entries": [
     {
       "source": "huggingface",
       "id": "tencent/Hy3",
       "title": "tencent/Hy3",
       "url": "https://huggingface.co/tencent/Hy3",
-      "score": 637
+      "score": 492
     },
     {
       "source": "huggingface",
       "id": "zai-org/GLM-5.2",
       "title": "zai-org/GLM-5.2",
       "url": "https://huggingface.co/zai-org/GLM-5.2",
-      "score": 344
-    },
-    {
-      "source": "huggingface",
-      "id": "InternScience/Agents-A1",
-      "title": "InternScience/Agents-A1",
-      "url": "https://huggingface.co/InternScience/Agents-A1",
-      "score": 252
+      "score": 292
     },
     {
       "source": "hackernews",
       "id": "48819808",
       "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
       "url": "https://github.com/rowboatlabs/rowboat",
-      "score": 216
+      "score": 218
     },
     {
       "source": "huggingface",
-      "id": "AliesTaha/fable-traces",
-      "title": "AliesTaha/fable-traces",
-      "url": "https://huggingface.co/AliesTaha/fable-traces",
-      "score": 190
-    },
-    {
-      "source": "huggingface",
-      "id": "meituan-longcat/LongCat-2.0",
-      "title": "meituan-longcat/LongCat-2.0",
-      "url": "https://huggingface.co/meituan-longcat/LongCat-2.0",
-      "score": 168
-    },
-    {
-      "source": "huggingface",
-      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "score": 143
+      "id": "InternScience/Agents-A1",
+      "title": "InternScience/Agents-A1",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "score": 194
     },
     {
       "source": "huggingface",
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "score": 132
-    },
-    {
-      "source": "huggingface",
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "score": 123
-    },
-    {
-      "source": "huggingface",
-      "id": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-      "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
-      "score": 98
-    },
-    {
-      "source": "huggingface",
-      "id": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-      "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-      "score": 97
+      "score": 160
     },
     {
       "source": "huggingface",
       "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
       "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
       "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
-      "score": 95
-    },
-    {
-      "source": "huggingface",
-      "id": "nvidia/Qwen3.6-27B-NVFP4",
-      "title": "nvidia/Qwen3.6-27B-NVFP4",
-      "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
-      "score": 92
+      "score": 143
     },
     {
       "source": "huggingface",
       "id": "nvidia/Nemotron-Labs-Audex-30B-A3B",
       "title": "nvidia/Nemotron-Labs-Audex-30B-A3B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B",
-      "score": 91
+      "score": 134
     },
     {
       "source": "huggingface",
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "score": 89
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "score": 114
+    },
+    {
+      "source": "huggingface",
+      "id": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "score": 111
+    },
+    {
+      "source": "huggingface",
+      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "score": 102
+    },
+    {
+      "source": "huggingface",
+      "id": "meituan-longcat/LongCat-2.0",
+      "title": "meituan-longcat/LongCat-2.0",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-2.0",
+      "score": 97
     },
     {
       "source": "huggingface",
       "id": "SupraLabs/Supra-Router-51M",
       "title": "SupraLabs/Supra-Router-51M",
       "url": "https://huggingface.co/SupraLabs/Supra-Router-51M",
-      "score": 85
+      "score": 96
+    },
+    {
+      "source": "huggingface",
+      "id": "nineninesix/gepard-1.0",
+      "title": "nineninesix/gepard-1.0",
+      "url": "https://huggingface.co/nineninesix/gepard-1.0",
+      "score": 84
+    },
+    {
+      "source": "huggingface",
+      "id": "empero-ai/Qwythos-9B-v2",
+      "title": "empero-ai/Qwythos-9B-v2",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-v2",
+      "score": 82
+    },
+    {
+      "source": "huggingface",
+      "id": "openbmb/MiniCPM5-1B",
+      "title": "openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "score": 72
+    },
+    {
+      "source": "huggingface",
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "score": 72
     },
     {
       "source": "hackernews",
       "id": "48816724",
       "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
       "url": "https://github.com/Rodiun/frugon",
-      "score": 45
+      "score": 66
     },
     {
       "source": "hackernews",
-      "id": "48847526",
-      "title": "Show HN: Policy enforcement for Claude Code, Cursor, and Codex",
-      "url": "https://kastra.ai/",
-      "score": 12
+      "id": "48885422",
+      "title": "Ask HN: How do you use LLMs for private discussions?",
+      "url": "https://news.ycombinator.com/item?id=48885422",
+      "score": 9
+    },
+    {
+      "source": "hackernews",
+      "id": "48843409",
+      "title": "Relm – local LLMs as base-R objects, with interpretability",
+      "url": "https://github.com/Vadale/R-ebirth",
+      "score": 7
     },
     {
       "source": "hackernews",
@@ -164,16 +171,23 @@
     },
     {
       "source": "hackernews",
-      "id": "48855138",
-      "title": "Show HN: TensorSharp: Open-Source Local LLM Inference Engine",
-      "url": "https://tensorsharp.ai/",
+      "id": "48880654",
+      "title": "Show HN: LocalMask – local-first CLI that masks PII and secrets before LLMs",
+      "url": "https://localmaskpro.com",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "48874905",
+      "title": "Show HN: Catch your local LLM falling back to CPU",
+      "url": "https://github.com/logxio/picchio",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "48843409",
-      "title": "Relm – local LLMs as base-R objects, with interpretability",
-      "url": "https://github.com/Vadale/R-ebirth",
+      "id": "48855138",
+      "title": "Show HN: TensorSharp: Open-Source Local LLM Inference Engine",
+      "url": "https://tensorsharp.ai/",
       "score": 2
     },
     {
@@ -192,23 +206,9 @@
     },
     {
       "source": "hackernews",
-      "id": "48796042",
-      "title": "Show HN: Goldseam – heal broken Cypress selectors with a local LLM",
-      "url": "https://github.com/adam-s/goldseam",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
       "id": "48833657",
       "title": "Show HN: I built a $90 terminal to find where locals eat via spatial gravity",
       "url": "https://hungrybutnotstupid.com/",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "48791740",
-      "title": "Fidx – local semantic search in one SQLite file, no LLM at query",
-      "url": "https://github.com/williamliu-ai/fidx",
       "score": 2
     },
     {
