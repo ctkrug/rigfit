@@ -1,249 +1,249 @@
 {
-  "fetchedAt": "2026-07-13T12:13:02.950Z",
+  "fetchedAt": "2026-07-20T11:51:42.814Z",
   "entries": [
     {
       "source": "huggingface",
-      "id": "tencent/Hy3",
-      "title": "tencent/Hy3",
-      "url": "https://huggingface.co/tencent/Hy3",
-      "score": 492
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "score": 779
+    },
+    {
+      "source": "huggingface",
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "title": "prism-ml/Bonsai-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+      "score": 500
     },
     {
       "source": "huggingface",
       "id": "zai-org/GLM-5.2",
       "title": "zai-org/GLM-5.2",
       "url": "https://huggingface.co/zai-org/GLM-5.2",
-      "score": 292
-    },
-    {
-      "source": "hackernews",
-      "id": "48819808",
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "score": 218
+      "score": 252
     },
     {
       "source": "huggingface",
-      "id": "InternScience/Agents-A1",
-      "title": "InternScience/Agents-A1",
-      "url": "https://huggingface.co/InternScience/Agents-A1",
-      "score": 194
+      "id": "AngelSlim/Hy3-GGUF",
+      "title": "AngelSlim/Hy3-GGUF",
+      "url": "https://huggingface.co/AngelSlim/Hy3-GGUF",
+      "score": 143
     },
     {
       "source": "huggingface",
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "score": 160
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "score": 140
     },
     {
       "source": "huggingface",
       "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
       "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
       "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
-      "score": 143
+      "score": 137
     },
     {
       "source": "huggingface",
-      "id": "nvidia/Nemotron-Labs-Audex-30B-A3B",
-      "title": "nvidia/Nemotron-Labs-Audex-30B-A3B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B",
-      "score": 134
+      "id": "prism-ml/Bonsai-27B-mlx-1bit",
+      "title": "prism-ml/Bonsai-27B-mlx-1bit",
+      "url": "https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit",
+      "score": 136
     },
     {
       "source": "huggingface",
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "score": 114
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "score": 121
     },
     {
       "source": "huggingface",
-      "id": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-      "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-      "score": 111
+      "id": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+      "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+      "score": 118
     },
     {
       "source": "huggingface",
-      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "score": 102
+      "id": "tencent/Hy3",
+      "title": "tencent/Hy3",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "score": 88
     },
     {
       "source": "huggingface",
-      "id": "meituan-longcat/LongCat-2.0",
-      "title": "meituan-longcat/LongCat-2.0",
-      "url": "https://huggingface.co/meituan-longcat/LongCat-2.0",
-      "score": 97
-    },
-    {
-      "source": "huggingface",
-      "id": "SupraLabs/Supra-Router-51M",
-      "title": "SupraLabs/Supra-Router-51M",
-      "url": "https://huggingface.co/SupraLabs/Supra-Router-51M",
-      "score": 96
-    },
-    {
-      "source": "huggingface",
-      "id": "nineninesix/gepard-1.0",
-      "title": "nineninesix/gepard-1.0",
-      "url": "https://huggingface.co/nineninesix/gepard-1.0",
-      "score": 84
-    },
-    {
-      "source": "huggingface",
-      "id": "empero-ai/Qwythos-9B-v2",
-      "title": "empero-ai/Qwythos-9B-v2",
-      "url": "https://huggingface.co/empero-ai/Qwythos-9B-v2",
-      "score": 82
-    },
-    {
-      "source": "huggingface",
-      "id": "openbmb/MiniCPM5-1B",
-      "title": "openbmb/MiniCPM5-1B",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
-      "score": 72
+      "id": "InternScience/Agents-A1",
+      "title": "InternScience/Agents-A1",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "score": 69
     },
     {
       "source": "huggingface",
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
       "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
       "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-      "score": 72
+      "score": 62
+    },
+    {
+      "source": "huggingface",
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "score": 60
+    },
+    {
+      "source": "huggingface",
+      "id": "Soofi-Project/Soofi-S-Base",
+      "title": "Soofi-Project/Soofi-S-Base",
+      "url": "https://huggingface.co/Soofi-Project/Soofi-S-Base",
+      "score": 59
+    },
+    {
+      "source": "huggingface",
+      "id": "empero-ai/Qwythos-9B-v2",
+      "title": "empero-ai/Qwythos-9B-v2",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-v2",
+      "score": 59
     },
     {
       "source": "hackernews",
-      "id": "48816724",
-      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-      "url": "https://github.com/Rodiun/frugon",
-      "score": 66
+      "id": "48907681",
+      "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+      "url": "https://github.com/projectargus-cc/libargus.cc",
+      "score": 38
     },
     {
       "source": "hackernews",
-      "id": "48885422",
-      "title": "Ask HN: How do you use LLMs for private discussions?",
-      "url": "https://news.ycombinator.com/item?id=48885422",
-      "score": 9
-    },
-    {
-      "source": "hackernews",
-      "id": "48843409",
-      "title": "Relm – local LLMs as base-R objects, with interpretability",
-      "url": "https://github.com/Vadale/R-ebirth",
-      "score": 7
-    },
-    {
-      "source": "hackernews",
-      "id": "48836288",
-      "title": "Ask HN: How you manage local long lived research projects and LLM's?",
-      "url": "https://news.ycombinator.com/item?id=48836288",
-      "score": 6
-    },
-    {
-      "source": "hackernews",
-      "id": "48827915",
-      "title": "Self-Hosting My Own LLMs",
-      "url": "https://davidbarnhart.com/llm/local-llm-setup.html",
-      "score": 4
-    },
-    {
-      "source": "hackernews",
-      "id": "48809994",
-      "title": "DGX Spark Local LLM Benchmark: Administrative Tasks",
-      "url": "https://www.aai-labs.com/en/research/local-llm-benchmark-administrative-tasks",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "48854066",
-      "title": "Ask HN: What are you running locally on your machine with LLMs?",
-      "url": "https://news.ycombinator.com/item?id=48854066",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "48845268",
-      "title": "Show HN: Slopera, a browser that hallucinates every page with an LLM",
-      "url": "https://github.com/fresswolf/Slopera",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "48880654",
-      "title": "Show HN: LocalMask – local-first CLI that masks PII and secrets before LLMs",
-      "url": "https://localmaskpro.com",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "48874905",
-      "title": "Show HN: Catch your local LLM falling back to CPU",
-      "url": "https://github.com/logxio/picchio",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "48855138",
-      "title": "Show HN: TensorSharp: Open-Source Local LLM Inference Engine",
-      "url": "https://tensorsharp.ai/",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "48818823",
-      "title": "PrivAiTe, a local LLM proxy that redacts PII in tool-call arguments",
-      "url": "https://github.com/crp4222/PrivAiTe",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "48804448",
-      "title": "Show HN: BurstyRouter: local LLM first then burst to end-to-end encrypted LLM",
-      "url": "https://github.com/Lore-Hex/BurstyRouter",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "48833657",
-      "title": "Show HN: I built a $90 terminal to find where locals eat via spatial gravity",
-      "url": "https://hungrybutnotstupid.com/",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "48863722",
-      "title": "Show HN: Local Motion – Use Cursor Agents and Chat with a Local LLM",
-      "url": "https://github.com/mattmireles/local-motion",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "48855960",
-      "title": "Ask HN: Recommend a Local LLM Setup (M2 Max, 9GB)",
-      "url": "https://news.ycombinator.com/item?id=48855960",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "48822627",
-      "title": "Squish, a local LLM inference server for Apple Silicon",
-      "url": "https://squish.run/blog/local-llm-fast-enough/",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "48830828",
-      "title": "Show HN: CodeRadius, map and govern multi repo architectures",
-      "url": "https://coderadius.ai",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "48850008",
-      "title": "Show HN: Trollbridge – let your agent run YOLO but without the whole internet",
+      "id": "48907871",
+      "title": "Show HN: I built a smart proxy so your coding agent can run loose",
       "url": "https://trollbridge.dev/",
+      "score": 14
+    },
+    {
+      "source": "hackernews",
+      "id": "48966745",
+      "title": "The Economic Mirage of Local LLMs",
+      "url": "https://eamag.me/2026/the-economic-mirage-of-local-llms",
+      "score": 5
+    },
+    {
+      "source": "hackernews",
+      "id": "48925332",
+      "title": "LHIC – A local-first browser agent with 30ms latency and $0 LLM cost",
+      "url": "https://github.com/chengmatt416/LHIC",
+      "score": 5
+    },
+    {
+      "source": "hackernews",
+      "id": "48934991",
+      "title": "Show HN: An MCP server that frames screen recordings and shots in Apple bezels",
+      "url": "https://github.com/cwooddgr/bezelbub/tree/main/bezelbub-mcp",
+      "score": 5
+    },
+    {
+      "source": "hackernews",
+      "id": "48918840",
+      "title": "Show HN: AI-CLI – tiny C terminal assistant powered by local LLM",
+      "url": "https://github.com/vkataev/ai-cli",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "48897545",
+      "title": "Attention is all they want – blocking content in websites with local LLMs",
+      "url": "https://sourcediver.org/posts/260713_attention_is_all_they_want/",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "48946283",
+      "title": "Prompt submitted to cloud even when using local LLM by default",
+      "url": "https://github.com/anomalyco/opencode/issues/15854",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48898284",
+      "title": "Ask HN: Feedback on my solo, local-LLM-only AI content pipeline (100 posts in)",
+      "url": "https://www.gladlabs.io",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48898224",
+      "title": "I gave a local LLM a \"delete production\" button and watched what it did",
+      "url": "https://medium.com/@dhanushg295/my-local-35b-avoids-every-trap-tool-1d2d2f1850cc",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48967743",
+      "title": "Show HN: Subrust, a no_std, no alloc Subset-of-Rust interpreter",
+      "url": "https://github.com/orbitalhigh/subrust",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48932029",
+      "title": "Show HN: LHIC – Deterministic device agent which learn and enhance when you use",
+      "url": "https://news.ycombinator.com/item?id=48932029",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48906032",
+      "title": "Mnemo AI – Local agentic assistant for any LLM that learns from its failures",
+      "url": "https://github.com/brunopistone/mnemoai",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "48968013",
+      "title": "Show HN: CallBro – Granola, but Powered by Codex, Claude Code, or Your Local LLM",
+      "url": "https://callbro.ai/",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "48946222",
+      "title": "Show HN: A sandbox for running real jailbreak techniques against local LLMs",
+      "url": "https://github.com/joshfischer1108/jailbreak-lab",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "48944208",
+      "title": "Show HN: Velora – On-device macOS dictation (Whisper and a local LLM, no cloud)",
+      "url": "https://github.com/sushilk1991/velora",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "48968447",
+      "title": "Ask HN: Does a local, Git-backed LLM \"compiler\" for personal notes make sense?",
+      "url": "https://news.ycombinator.com/item?id=48968447",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "48967666",
+      "title": "I built llms.txt files to make local businesses discoverable by AI agents",
+      "url": "https://www.kloofstreet.online/",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "48952687",
+      "title": "Show HN: A local browser extension that protects critical thinking from LLM's",
+      "url": "https://frog1230.itch.io/mind-shield",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "48907464",
+      "title": "Show HN: Cruxible – Terraform-like ontology config to governed state for agents",
+      "url": "https://github.com/cruxible-ai/cruxible",
       "score": 1
     }
   ]
