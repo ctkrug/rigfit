@@ -1,249 +1,249 @@
 {
-  "fetchedAt": "2026-07-27T12:31:49.144Z",
+  "fetchedAt": "2026-08-03T12:31:37.075Z",
   "entries": [
     {
       "source": "huggingface",
-      "id": "poolside/Laguna-S-2.1",
-      "title": "poolside/Laguna-S-2.1",
-      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
-      "score": 699
-    },
-    {
-      "source": "huggingface",
-      "id": "upstage/Solar-Open2-250B",
-      "title": "upstage/Solar-Open2-250B",
-      "url": "https://huggingface.co/upstage/Solar-Open2-250B",
-      "score": 529
-    },
-    {
-      "source": "huggingface",
-      "id": "Nanbeige/Nanbeige4.2-3B",
-      "title": "Nanbeige/Nanbeige4.2-3B",
-      "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
-      "score": 462
+      "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "score": 1781
     },
     {
       "source": "huggingface",
       "id": "zai-org/GLM-5.2",
       "title": "zai-org/GLM-5.2",
       "url": "https://huggingface.co/zai-org/GLM-5.2",
-      "score": 247
-    },
-    {
-      "source": "huggingface",
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "title": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-      "score": 217
+      "score": 227
     },
     {
       "source": "huggingface",
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
       "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
       "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-      "score": 217
+      "score": 193
     },
     {
       "source": "huggingface",
-      "id": "unsloth/Laguna-S-2.1-GGUF",
-      "title": "unsloth/Laguna-S-2.1-GGUF",
-      "url": "https://huggingface.co/unsloth/Laguna-S-2.1-GGUF",
-      "score": 205
-    },
-    {
-      "source": "hackernews",
-      "id": "49022911",
-      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "score": 190
+      "id": "Nanbeige/Nanbeige4.2-3B",
+      "title": "Nanbeige/Nanbeige4.2-3B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+      "score": 157
     },
     {
       "source": "huggingface",
-      "id": "Motif-Technologies/Motif-3-Beta",
-      "title": "Motif-Technologies/Motif-3-Beta",
-      "url": "https://huggingface.co/Motif-Technologies/Motif-3-Beta",
-      "score": 189
+      "id": "poolside/Laguna-S-2.1",
+      "title": "poolside/Laguna-S-2.1",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+      "score": 154
     },
     {
       "source": "huggingface",
-      "id": "fdtn-ai/antares-1b",
-      "title": "fdtn-ai/antares-1b",
-      "url": "https://huggingface.co/fdtn-ai/antares-1b",
-      "score": 178
+      "id": "XYZAILab/XYZ-Aquila-mini",
+      "title": "XYZAILab/XYZ-Aquila-mini",
+      "url": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
+      "score": 147
     },
     {
       "source": "huggingface",
-      "id": "poolside/Laguna-S-2.1-NVFP4",
-      "title": "poolside/Laguna-S-2.1-NVFP4",
-      "url": "https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
-      "score": 143
+      "id": "XYZAILab/XYZ-Aquila-pro",
+      "title": "XYZAILab/XYZ-Aquila-pro",
+      "url": "https://huggingface.co/XYZAILab/XYZ-Aquila-pro",
+      "score": 123
     },
     {
       "source": "huggingface",
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "title": "prism-ml/Bonsai-27B-gguf",
-      "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+      "id": "deepseek-ai/DeepSeek-V4-Flash",
+      "title": "deepseek-ai/DeepSeek-V4-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+      "score": 122
+    },
+    {
+      "source": "huggingface",
+      "id": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+      "title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+      "url": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
       "score": 121
     },
     {
-      "source": "hackernews",
-      "id": "49024620",
-      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-      "url": "https://news.ycombinator.com/item?id=49024620",
-      "score": 85
+      "source": "huggingface",
+      "id": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+      "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+      "url": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
+      "score": 119
     },
     {
       "source": "huggingface",
-      "id": "poolside/Laguna-XS-2.1",
-      "title": "poolside/Laguna-XS-2.1",
-      "url": "https://huggingface.co/poolside/Laguna-XS-2.1",
-      "score": 77
+      "id": "upstage/Solar-Open2-250B",
+      "title": "upstage/Solar-Open2-250B",
+      "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+      "score": 100
     },
     {
       "source": "huggingface",
-      "id": "badtheorylabs/BTL-3",
-      "title": "badtheorylabs/BTL-3",
-      "url": "https://huggingface.co/badtheorylabs/BTL-3",
-      "score": 62
+      "id": "amd/Instella-MoE-16B-A3B-Think",
+      "title": "amd/Instella-MoE-16B-A3B-Think",
+      "url": "https://huggingface.co/amd/Instella-MoE-16B-A3B-Think",
+      "score": 94
     },
     {
       "source": "huggingface",
-      "id": "ProCreations/grug-27b",
-      "title": "ProCreations/grug-27b",
-      "url": "https://huggingface.co/ProCreations/grug-27b",
-      "score": 62
+      "id": "LGAI-EXAONE/K-EXAONE-2.0-750B-A37B",
+      "title": "LGAI-EXAONE/K-EXAONE-2.0-750B-A37B",
+      "url": "https://huggingface.co/LGAI-EXAONE/K-EXAONE-2.0-750B-A37B",
+      "score": 90
     },
     {
       "source": "huggingface",
-      "id": "unsloth/Ornith-1.0-35B-GGUF",
-      "title": "unsloth/Ornith-1.0-35B-GGUF",
-      "url": "https://huggingface.co/unsloth/Ornith-1.0-35B-GGUF",
-      "score": 60
+      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
+      "title": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
+      "url": "https://huggingface.co/KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
+      "score": 76
+    },
+    {
+      "source": "huggingface",
+      "id": "skt/A.X-K2",
+      "title": "skt/A.X-K2",
+      "url": "https://huggingface.co/skt/A.X-K2",
+      "score": 76
     },
     {
       "source": "hackernews",
-      "id": "48996204",
-      "title": "Show HN: threadfork – AI meeting notes that run on your Mac",
-      "url": "https://www.threadfork.com/",
-      "score": 10
+      "id": "49088771",
+      "title": "Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp",
+      "url": "https://github.com/mraza007/minute",
+      "score": 12
     },
     {
       "source": "hackernews",
-      "id": "49028737",
-      "title": "Show HN: Mumble Dictation – local dictation that learns your vocabulary",
-      "url": "https://news.ycombinator.com/item?id=49028737",
-      "score": 6
+      "id": "49141408",
+      "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
+      "url": "https://github.com/ANIRudH-lab-life/job-radar",
+      "score": 7
     },
     {
       "source": "hackernews",
-      "id": "49045970",
-      "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
-      "url": "https://news.ycombinator.com/item?id=49045970",
+      "id": "49088436",
+      "title": "Show HN: Writekin – fine-tune a local LLM on your own writing, on your Mac",
+      "url": "https://github.com/scouttyg/writekin",
       "score": 5
     },
     {
       "source": "hackernews",
-      "id": "49007529",
-      "title": "Show HN: DataParade – generate dataflow diagrams from code for risk assessments",
-      "url": "https://github.com/DataParade-io/dataparade-cli",
+      "id": "49093371",
+      "title": "Self-Hosting has 34× First-Year ROI at 90% capacity",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1v8dv47/what_am_i_missing_selfhosting_kimi_k3_has_34/",
       "score": 5
     },
     {
       "source": "hackernews",
-      "id": "49044237",
-      "title": "Speculative Decoding: The Free Speed Toggle Your Local LLM Is Probably Not Using",
-      "url": "https://vettedconsumer.com/speculative-decoding-explained-the-free-speed-toggle-your-local-llm-is-probably-not-using/",
+      "id": "49103002",
+      "title": "My Local LLM Scored 6/6. It Was Wrong Every Time",
+      "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
       "score": 4
     },
     {
       "source": "hackernews",
-      "id": "48985063",
-      "title": "Free LLM balancer combines multiple local inference machines with cloud fallback",
-      "url": "https://github.com/Gysho/LLMrPro",
-      "score": 4
-    },
-    {
-      "source": "hackernews",
-      "id": "49063609",
-      "title": "Qwen 27B with local well writen tools just as powerful as cluade models?",
-      "url": "https://news.ycombinator.com/item?id=49063609",
-      "score": 4
-    },
-    {
-      "source": "hackernews",
-      "id": "49055623",
-      "title": "Let Local LLMs Search the Web Without Burning 100k+ Tokens",
-      "url": "https://medium.com/@marcbuilds/tinysearch-let-your-small-local-llm-search-the-web-without-burning-the-whole-context-window-759538cf59bf",
+      "id": "49149682",
+      "title": "Show HN: mlxsh A lightweight CLI to serve multiple local LLMs on Apple",
+      "url": "https://github.com/ansnadeem/mlxsh",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "49006784",
-      "title": "Show HN: Makes local LLMs faster and more reliable by optimizing for your device",
-      "url": "https://www.autotunellm.com/",
+      "id": "49149134",
+      "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+      "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "49112667",
+      "title": "Run LLM Without OS",
+      "url": "https://www.cnx-software.com/2026/07/30/nightrun-uefi-application-boots-a-local-llm-on-raspberry-pi-5-and-x86-pcs-without-an-os/",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "49070611",
+      "title": "Show HN: Otlet – Local LLM inference \"inside\" Postgres",
+      "url": "https://github.com/joshmeek/otlet",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49003210",
-      "title": "A hand-cranked device for running local LLMs",
-      "url": "https://squeezlabs.github.io/handcrank/",
+      "id": "49108231",
+      "title": "Show HN: A minimalist proxy for your local LLM cluster (~1100 lines)",
+      "url": "https://github.com/robolamp/smol-llm-proxy",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "48993935",
-      "title": "Show HN: Mozilla killed Orbit, so I built a local-LLM extension",
-      "url": "https://github.com/darshi1337/apogee",
+      "id": "49107389",
+      "title": "Explain This – select text, get an explanation from a local LLM",
+      "url": "https://github.com/Vishwamitra/explain-this",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49022761",
-      "title": "Show HN: WatchMachineGo – A visualizer to show hardware performing LLM inference",
-      "url": "https://watchmachinego.com/llm-inference",
+      "id": "49098870",
+      "title": "What NPU Tops Doesn't Tell You: How Memory Bounds Local LLM Performance",
+      "url": "https://capytoolkit.com/blog/buying-guides/npu-tops-vs-memory-bandwidth-local-llm-ai-pc/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49015424",
-      "title": "Localmaxxing – Local LLM Inference Benchmarks",
-      "url": "https://www.localmaxxing.com/en",
+      "id": "49083385",
+      "title": "My local LLM scored 6/6. It was wrong every time",
+      "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49098924",
+      "title": "K3 on Mac Studio M3 Ultra with 512GB",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1v9iyhe/k3_on_mac_studio_m3_ultra_with_512gb/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49085074",
+      "title": "Local Inference – Run LLMs on Your Own Hardware (Guide and Forum)",
+      "url": "https://localinference.io/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49097394",
+      "title": "Show HN: Multi-agent LLM editor with local inference via WebSockets",
+      "url": "https://x-agent.sascha10k.biz",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49135861",
+      "title": "Show HN: Goulash – heckler/helper to local-LLM your shell as little as possible",
+      "url": "https://github.com/chaboud/goulash",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49062416",
-      "title": "Show HN: LX Coreutils – pipeable tools enhanced by small local / cheap LLM calls",
-      "url": "https://github.com/BrunkenClaas/lx",
+      "id": "49122089",
+      "title": "Ask HN: What are you using local LLMs for?",
+      "url": "https://news.ycombinator.com/item?id=49122089",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49036748",
-      "title": "Show HN: Ghost Vessel – give your local LLM agent a face",
-      "url": "https://github.com/ghdtjrtka/ghost-vessel",
+      "id": "49069732",
+      "title": "Show HN: Xllama – Local LLM Chat and Stable Diffusion on an Xbox Series S",
+      "url": "https://github.com/gianlucamazza/xllama",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49035172",
-      "title": "Show HN: Horch – tracks todos, people, and topics from your meetings, on-device",
-      "url": "https://horch.app",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49059631",
-      "title": "Show HN: LLM-spend – Audit your OpenAI/Anthropic API spend locally",
-      "url": "https://github.com/kliukovkin/llm-spend",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49035043",
-      "title": "Anyone else like llms.txt for architecture docs?",
-      "url": "https://news.ycombinator.com/item?id=49035043",
+      "id": "49150636",
+      "title": "Aquila Voice Assistant Test Suite for Home Assistant",
+      "url": "https://news.ycombinator.com/item?id=49150636",
       "score": 1
     }
   ]
