@@ -1,249 +1,249 @@
 {
-  "fetchedAt": "2026-08-03T12:31:37.075Z",
+  "fetchedAt": "2026-08-10T10:23:22.016Z",
   "entries": [
     {
       "source": "huggingface",
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-      "score": 1781
+      "score": 864
     },
     {
       "source": "huggingface",
-      "id": "zai-org/GLM-5.2",
-      "title": "zai-org/GLM-5.2",
-      "url": "https://huggingface.co/zai-org/GLM-5.2",
-      "score": 227
+      "id": "LiquidAI/LFM2.5-2.6B",
+      "title": "LiquidAI/LFM2.5-2.6B",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "score": 446
+    },
+    {
+      "source": "huggingface",
+      "id": "deepgrove/maple-preview",
+      "title": "deepgrove/maple-preview",
+      "url": "https://huggingface.co/deepgrove/maple-preview",
+      "score": 286
+    },
+    {
+      "source": "huggingface",
+      "id": "inclusionAI/Ling-3.0-flash",
+      "title": "inclusionAI/Ling-3.0-flash",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
+      "score": 261
+    },
+    {
+      "source": "huggingface",
+      "id": "LiquidAI/LFM2.5-2.6B-GGUF",
+      "title": "LiquidAI/LFM2.5-2.6B-GGUF",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
+      "score": 163
     },
     {
       "source": "huggingface",
       "id": "Kwaipilot/KAT-Coder-V2.5-Dev",
       "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
       "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-      "score": 193
+      "score": 115
     },
     {
       "source": "huggingface",
-      "id": "Nanbeige/Nanbeige4.2-3B",
-      "title": "Nanbeige/Nanbeige4.2-3B",
-      "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
-      "score": 157
-    },
-    {
-      "source": "huggingface",
-      "id": "poolside/Laguna-S-2.1",
-      "title": "poolside/Laguna-S-2.1",
-      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
-      "score": 154
-    },
-    {
-      "source": "huggingface",
-      "id": "XYZAILab/XYZ-Aquila-mini",
-      "title": "XYZAILab/XYZ-Aquila-mini",
-      "url": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
-      "score": 147
-    },
-    {
-      "source": "huggingface",
-      "id": "XYZAILab/XYZ-Aquila-pro",
-      "title": "XYZAILab/XYZ-Aquila-pro",
-      "url": "https://huggingface.co/XYZAILab/XYZ-Aquila-pro",
-      "score": 123
-    },
-    {
-      "source": "huggingface",
-      "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "title": "deepseek-ai/DeepSeek-V4-Flash",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-      "score": 122
+      "id": "zai-org/GLM-5.2",
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "score": 102
     },
     {
       "source": "huggingface",
       "id": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
       "title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
       "url": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
-      "score": 121
-    },
-    {
-      "source": "huggingface",
-      "id": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-      "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-      "url": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
-      "score": 119
-    },
-    {
-      "source": "huggingface",
-      "id": "upstage/Solar-Open2-250B",
-      "title": "upstage/Solar-Open2-250B",
-      "url": "https://huggingface.co/upstage/Solar-Open2-250B",
-      "score": 100
-    },
-    {
-      "source": "huggingface",
-      "id": "amd/Instella-MoE-16B-A3B-Think",
-      "title": "amd/Instella-MoE-16B-A3B-Think",
-      "url": "https://huggingface.co/amd/Instella-MoE-16B-A3B-Think",
-      "score": 94
-    },
-    {
-      "source": "huggingface",
-      "id": "LGAI-EXAONE/K-EXAONE-2.0-750B-A37B",
-      "title": "LGAI-EXAONE/K-EXAONE-2.0-750B-A37B",
-      "url": "https://huggingface.co/LGAI-EXAONE/K-EXAONE-2.0-750B-A37B",
       "score": 90
     },
     {
       "source": "huggingface",
-      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
-      "title": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
-      "url": "https://huggingface.co/KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
-      "score": 76
+      "id": "Akahsizrr/fuse-1-Lite",
+      "title": "Akahsizrr/fuse-1-Lite",
+      "url": "https://huggingface.co/Akahsizrr/fuse-1-Lite",
+      "score": 89
     },
     {
       "source": "huggingface",
-      "id": "skt/A.X-K2",
-      "title": "skt/A.X-K2",
-      "url": "https://huggingface.co/skt/A.X-K2",
-      "score": 76
+      "id": "badtheorylabs/BTL-4",
+      "title": "badtheorylabs/BTL-4",
+      "url": "https://huggingface.co/badtheorylabs/BTL-4",
+      "score": 78
+    },
+    {
+      "source": "huggingface",
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "title": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "score": 75
+    },
+    {
+      "source": "huggingface",
+      "id": "deepseek-ai/DeepSeek-V4-Flash",
+      "title": "deepseek-ai/DeepSeek-V4-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+      "score": 72
+    },
+    {
+      "source": "huggingface",
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "title": "Qwen/Qwen2.5-7B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "score": 69
+    },
+    {
+      "source": "huggingface",
+      "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
+      "title": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
+      "url": "https://huggingface.co/huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
+      "score": 65
     },
     {
       "source": "hackernews",
-      "id": "49088771",
-      "title": "Show HN: Minute – Offline meeting notes on macOS with Whisper and llama.cpp",
-      "url": "https://github.com/mraza007/minute",
-      "score": 12
+      "id": "49166308",
+      "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+      "url": "https://github.com/david-g-3654/homebench",
+      "score": 59
+    },
+    {
+      "source": "huggingface",
+      "id": "microsoft/Phi-3.5-mini-instruct",
+      "title": "microsoft/Phi-3.5-mini-instruct",
+      "url": "https://huggingface.co/microsoft/Phi-3.5-mini-instruct",
+      "score": 57
     },
     {
       "source": "hackernews",
-      "id": "49141408",
-      "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
-      "url": "https://github.com/ANIRudH-lab-life/job-radar",
-      "score": 7
-    },
-    {
-      "source": "hackernews",
-      "id": "49088436",
-      "title": "Show HN: Writekin – fine-tune a local LLM on your own writing, on your Mac",
-      "url": "https://github.com/scouttyg/writekin",
-      "score": 5
-    },
-    {
-      "source": "hackernews",
-      "id": "49093371",
-      "title": "Self-Hosting has 34× First-Year ROI at 90% capacity",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1v8dv47/what_am_i_missing_selfhosting_kimi_k3_has_34/",
-      "score": 5
-    },
-    {
-      "source": "hackernews",
-      "id": "49103002",
-      "title": "My Local LLM Scored 6/6. It Was Wrong Every Time",
-      "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
+      "id": "49198557",
+      "title": "Building a Dual V100 AI Workstation for Local LLMs",
+      "url": "https://jayakody2000lk.blogspot.com/2026/07/building-dual-v100-ai-workstation-for.html",
       "score": 4
     },
     {
       "source": "hackernews",
-      "id": "49149682",
-      "title": "Show HN: mlxsh A lightweight CLI to serve multiple local LLMs on Apple",
-      "url": "https://github.com/ansnadeem/mlxsh",
+      "id": "49222031",
+      "title": "Ask HN: What can I do with a single R9700?",
+      "url": "https://news.ycombinator.com/item?id=49222031",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "49184049",
+      "title": "Show HN: LLM control of deterministic coder – Sif 1.0 – LLMs as vibe coders",
+      "url": "https://github.com/Mac-at-SifSys/Sif-1.0",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "49170538",
+      "title": "Show HN: Clai – AI for the command line (stdin → LLM → stdout)",
+      "url": "https://github.com/maxrodrigo/clai",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "49179101",
+      "title": "Show HN: Lapse - a notes app. but also shared memory space for your agents (MCP)",
+      "url": "https://lapse.in",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "49149134",
-      "title": "Teaching an AI to know itself: Building a local LLM agent in D",
-      "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+      "id": "49170581",
+      "title": "DeepSeek V4 Flash 0731 (Q4) 1,328 tok/s prefill 29 tok/s decode one RTX PRO 6000",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1vfds7w/deepseek_v4_flash_0731_q4_now_reaches_1328_toks/",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "49112667",
-      "title": "Run LLM Without OS",
-      "url": "https://www.cnx-software.com/2026/07/30/nightrun-uefi-application-boots-a-local-llm-on-raspberry-pi-5-and-x86-pcs-without-an-os/",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "49070611",
-      "title": "Show HN: Otlet – Local LLM inference \"inside\" Postgres",
-      "url": "https://github.com/joshmeek/otlet",
+      "id": "49211806",
+      "title": "Ask HN: How is everyone using Local LLMs?",
+      "url": "https://news.ycombinator.com/item?id=49211806",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49108231",
-      "title": "Show HN: A minimalist proxy for your local LLM cluster (~1100 lines)",
-      "url": "https://github.com/robolamp/smol-llm-proxy",
+      "id": "49181429",
+      "title": "Show HN: Hardware requirement calculator for local LLMs",
+      "url": "https://soverignplan.app/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49107389",
-      "title": "Explain This – select text, get an explanation from a local LLM",
-      "url": "https://github.com/Vishwamitra/explain-this",
+      "id": "49162853",
+      "title": "Unsloth: Run and Train Local LLMs",
+      "url": "https://github.com/unslothai/unsloth",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49098870",
-      "title": "What NPU Tops Doesn't Tell You: How Memory Bounds Local LLM Performance",
-      "url": "https://capytoolkit.com/blog/buying-guides/npu-tops-vs-memory-bandwidth-local-llm-ai-pc/",
+      "id": "49198431",
+      "title": "Local models head to head for extraction",
+      "url": "https://rakuensoftware.com/blog/local-llm-fact-extraction-head-to-head",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49083385",
-      "title": "My local LLM scored 6/6. It was wrong every time",
-      "url": "https://markbhall.dev/writing/my-local-llm-scored-6-of-6/",
+      "id": "49170566",
+      "title": "Show HN: BubbleHub - a local runtime and hosting for LLM agents",
+      "url": "https://github.com/bublhub/BubbleHub",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49098924",
-      "title": "K3 on Mac Studio M3 Ultra with 512GB",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1v9iyhe/k3_on_mac_studio_m3_ultra_with_512gb/",
+      "id": "49238127",
+      "title": "Show HN: SynapsCLI – lightweight agent runtime in Rust, control an agent swarm",
+      "url": "https://github.com/HaseebKhalid1507/SynapsCLI",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49085074",
-      "title": "Local Inference – Run LLMs on Your Own Hardware (Guide and Forum)",
-      "url": "https://localinference.io/",
+      "id": "49220836",
+      "title": "Show HN: Otaku – A Roleplay Terminal Client",
+      "url": "https://github.com/enclavum/otaku",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49097394",
-      "title": "Show HN: Multi-agent LLM editor with local inference via WebSockets",
-      "url": "https://x-agent.sascha10k.biz",
+      "id": "49199125",
+      "title": "Show HN: Mnemosyne – Export AI chat to carry context from one tool into another",
+      "url": "https://github.com/TheJoin95/mnemosyne/blob/main/README.md",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49135861",
-      "title": "Show HN: Goulash – heckler/helper to local-LLM your shell as little as possible",
-      "url": "https://github.com/chaboud/goulash",
+      "id": "49208099",
+      "title": "Show HN: Benchmark local LLMs fit for your device specs",
+      "url": "https://github.com/SupermodularAI/local_bench",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49122089",
-      "title": "Ask HN: What are you using local LLMs for?",
-      "url": "https://news.ycombinator.com/item?id=49122089",
+      "id": "49207517",
+      "title": "Show HN: Llmem – Local persistent memory for AI coding, no embeddings",
+      "url": "https://github.com/netrixone/llmem",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49069732",
-      "title": "Show HN: Xllama – Local LLM Chat and Stable Diffusion on an Xbox Series S",
-      "url": "https://github.com/gianlucamazza/xllama",
+      "id": "49218097",
+      "title": "Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams",
+      "url": "https://www.salestrics.com/",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49150636",
-      "title": "Aquila Voice Assistant Test Suite for Home Assistant",
-      "url": "https://news.ycombinator.com/item?id=49150636",
+      "id": "49159195",
+      "title": "Show HN: Chaser (beta) – Share Mac windows as screenshots and UI context",
+      "url": "https://chaser.vgnsh.xyz",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "49156989",
+      "title": "Show HN: Self-hosted pet diary built on Frigate and a local vision model",
+      "url": "https://github.com/bolt12/pet-report",
       "score": 1
     }
   ]
