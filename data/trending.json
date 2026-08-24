@@ -1,249 +1,249 @@
 {
-  "fetchedAt": "2026-08-17T09:50:19.472Z",
+  "fetchedAt": "2026-08-24T09:54:56.661Z",
   "entries": [
     {
       "source": "huggingface",
-      "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "title": "Qwen/Qwen3.8-2.4T-A95B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 978
+      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "score": 588
+    },
+    {
+      "source": "hackernews",
+      "id": "49402232",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 417
     },
     {
       "source": "huggingface",
-      "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-      "score": 518
-    },
-    {
-      "source": "huggingface",
-      "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-      "score": 386
-    },
-    {
-      "source": "huggingface",
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "score": 272
+      "id": "ornith-ai/Ornith-1.5-35B-A3B",
+      "title": "ornith-ai/Ornith-1.5-35B-A3B",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
+      "score": 366
     },
     {
       "source": "huggingface",
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "score": 222
+      "score": 362
     },
     {
       "source": "huggingface",
-      "id": "Qwen/Qwen3.8-2.4T-A95B-FP8",
-      "title": "Qwen/Qwen3.8-2.4T-A95B-FP8",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
-      "score": 196
+      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "score": 250
     },
     {
       "source": "huggingface",
-      "id": "dots-studio/dots3-note-prev",
-      "title": "dots-studio/dots3-note-prev",
-      "url": "https://huggingface.co/dots-studio/dots3-note-prev",
-      "score": 186
+      "id": "superwhisper/s1-mini",
+      "title": "superwhisper/s1-mini",
+      "url": "https://huggingface.co/superwhisper/s1-mini",
+      "score": 216
     },
     {
       "source": "huggingface",
-      "id": "LiquidAI/LFM2.5-2.6B",
-      "title": "LiquidAI/LFM2.5-2.6B",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "id": "z-lab/Qwen3.8-27B-DFlash2",
+      "title": "z-lab/Qwen3.8-27B-DFlash2",
+      "url": "https://huggingface.co/z-lab/Qwen3.8-27B-DFlash2",
+      "score": 207
+    },
+    {
+      "source": "huggingface",
+      "id": "ornith-ai/Ornith-1.5-9B",
+      "title": "ornith-ai/Ornith-1.5-9B",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-9B",
+      "score": 183
+    },
+    {
+      "source": "huggingface",
+      "id": "ornith-ai/Ornith-1.5-9B-GGUF",
+      "title": "ornith-ai/Ornith-1.5-9B-GGUF",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
       "score": 166
     },
     {
       "source": "huggingface",
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
-      "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
-      "score": 156
+      "id": "incoai/Qwen3.8-27B-DFlash2",
+      "title": "incoai/Qwen3.8-27B-DFlash2",
+      "url": "https://huggingface.co/incoai/Qwen3.8-27B-DFlash2",
+      "score": 165
     },
     {
       "source": "huggingface",
-      "id": "Cactus-Compute/needle2",
-      "title": "Cactus-Compute/needle2",
-      "url": "https://huggingface.co/Cactus-Compute/needle2",
-      "score": 134
+      "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "score": 155
     },
     {
       "source": "huggingface",
-      "id": "Motif-Technologies/Motif-3",
-      "title": "Motif-Technologies/Motif-3",
-      "url": "https://huggingface.co/Motif-Technologies/Motif-3",
-      "score": 108
-    },
-    {
-      "source": "huggingface",
-      "id": "AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
-      "title": "AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
-      "url": "https://huggingface.co/AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
-      "score": 103
-    },
-    {
-      "source": "huggingface",
-      "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
-      "title": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
-      "url": "https://huggingface.co/unsloth/Qwen3.8-2.4T-A95B-GGUF",
-      "score": 102
-    },
-    {
-      "source": "hackernews",
-      "id": "49303046",
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "url": "https://github.com/lajosdeme/mole",
-      "score": 100
+      "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
+      "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+      "score": 147
     },
     {
       "source": "huggingface",
       "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
       "title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
       "url": "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "score": 89
+      "score": 146
     },
     {
       "source": "huggingface",
-      "id": "AtomicChat/Qwen3.8-27B-GGUF",
-      "title": "AtomicChat/Qwen3.8-27B-GGUF",
-      "url": "https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF",
-      "score": 86
+      "id": "EschaLabs/Qwen3.8-27B-Escha-W2",
+      "title": "EschaLabs/Qwen3.8-27B-Escha-W2",
+      "url": "https://huggingface.co/EschaLabs/Qwen3.8-27B-Escha-W2",
+      "score": 120
     },
     {
       "source": "hackernews",
-      "id": "49242175",
-      "title": "I Benchmarked Local LLMs on the Laptop I Have",
-      "url": "https://mamonas.dev/posts/local-llms-on-the-laptop-i-already-have/",
-      "score": 20
+      "id": "49332751",
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "score": 118
+    },
+    {
+      "source": "huggingface",
+      "id": "Qwen/Qwen3.8-2.4T-A95B",
+      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 117
+    },
+    {
+      "source": "huggingface",
+      "id": "incoai/Qwen3.8-27B-DFlash2-GGUF",
+      "title": "incoai/Qwen3.8-27B-DFlash2-GGUF",
+      "url": "https://huggingface.co/incoai/Qwen3.8-27B-DFlash2-GGUF",
+      "score": 113
     },
     {
       "source": "hackernews",
-      "id": "49245161",
-      "title": "Show HN: PrivateRedact – Offline PII redaction with a local LLM, no cloud",
-      "url": "https://github.com/monjurulkarim/privateredact",
-      "score": 4
+      "id": "49363710",
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "url": "https://github.com/onecli/onecli",
+      "score": 87
     },
     {
       "source": "hackernews",
-      "id": "49274601",
-      "title": "Show HN: My pocket-sized Personal IoT device. Data-local by default",
-      "url": "https://news.ycombinator.com/item?id=49274601",
-      "score": 4
+      "id": "49330604",
+      "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
+      "url": "https://1667.ai/",
+      "score": 37
     },
     {
       "source": "hackernews",
-      "id": "49273067",
-      "title": "I ran the same local LLM on an RTX 5070 laptop and one with an iGPU",
-      "url": "https://www.xda-developers.com/same-local-llm-on-rtx-5070-and-integrated-graphics/",
-      "score": 3
+      "id": "49389339",
+      "title": "Code Obfuscation via Local Mixing",
+      "url": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
+      "score": 34
     },
     {
       "source": "hackernews",
-      "id": "49306462",
+      "id": "49374554",
+      "title": "Show HN: LilScript makes JavaScript libraries smaller",
+      "url": "https://news.ycombinator.com/item?id=49374554",
+      "score": 14
+    },
+    {
+      "source": "hackernews",
+      "id": "49350637",
+      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+      "url": "https://pantheongpu.com/",
+      "score": 13
+    },
+    {
+      "source": "hackernews",
+      "id": "49380122",
+      "title": "Teaching a local LLM to reason about a new domain through continued pretraining",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
+      "score": 6
+    },
+    {
+      "source": "hackernews",
+      "id": "49362047",
+      "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
+      "url": "https://github.com/danielealbano/android-remote-control-mcp/",
+      "score": 6
+    },
+    {
+      "source": "hackernews",
+      "id": "49387684",
+      "title": "Good Results when training Qwen 3 4B to learn a new domain",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
+      "score": 5
+    },
+    {
+      "source": "hackernews",
+      "id": "49362974",
+      "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
+      "url": "https://github.com/inxm-ai/inxm-local",
+      "score": 5
+    },
+    {
+      "source": "hackernews",
+      "id": "49405912",
       "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
       "url": "https://github.com/AntoineChatry/Dictata",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "49289952",
-      "title": "Show HN: LymeScribe – one computer on your network transcribes for the rest",
-      "url": "https://transcribe.lymestack.com/",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "49260102",
-      "title": "Show HN: Pickle – token efficient AI agent browser with policy-gated actions",
-      "url": "https://picklebrowser.com/",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "49274480",
-      "title": "Local LLM Hardware Calc",
-      "url": "https://dubir.net/tools/local-llm-hardware-calculator/",
+      "id": "49408697",
+      "title": "Daimon – Local Privacy LLM",
+      "url": "https://github.com/ar0per0/Daimon",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49315777",
-      "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
+      "id": "49343170",
+      "title": "GenOffice fork that works with any local LLM instead of a cloud account",
+      "url": "https://github.com/douglas168/open-genoffice",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49371913",
+      "title": "Offline RAG on iOS with Spatial Integration",
+      "url": "https://news.ycombinator.com/item?id=49371913",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49368474",
+      "title": "The Arduino UNO Q is an almost perfect Hermes Agent host",
+      "url": "https://news.ycombinator.com/item?id=49368474",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49330655",
+      "title": "Show HN: Stressing LLMs – Complexity Benchmark",
+      "url": "https://alexander-hanel.github.io/StressingLLMs/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49394859",
+      "title": "Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux",
+      "url": "https://www.chickenbutt.dev/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49342507",
+      "title": "PurgeHound – Use the power of local LLM to declutter a Maildir folder",
+      "url": "https://git.cerberusgames.ca/Starstreak/PurgeHound/",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "49339675",
+      "title": "Privibe – LLM CLI Local first+privacy focus+llama.cpp cache branch and Qwen3.x",
       "url": "https://github.com/alainnothere/privibe/tree/main",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49308095",
-      "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
-      "url": "https://riffn.io/how-riffn-works/",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49266750",
-      "title": "Show HN: Kernelspace- interactive course on systems programming for LLM Serving",
-      "url": "https://kernelspace.naigap.com/",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49323730",
-      "title": "Show HN: SolidSync – Poorman's Solidworks PDM",
-      "url": "https://github.com/baggiest/solidsync",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49311785",
-      "title": "Show HN: Velorn – an open-source desktop video editor with MCP agent control",
-      "url": "https://github.com/VelornLabs/velorn",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49291063",
-      "title": "Building Bibliographic Superwork Clusters for Discovery with Local LLMs",
-      "url": "https://thisismattmiller.com/post/superwork/",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49248085",
-      "title": "I put a local LLM agent inside a menu-bar Mac monitor (and you can leave it off)",
-      "url": "https://github.com/raro42/mac-stats",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49275835",
-      "title": "Local Model Performance on a MacBook Pro M5 Max",
-      "url": "https://blog.gitbutler.com/local-llm-gauntlet",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49267611",
-      "title": "Show HN: Lethe is a portable identity layer – user consented",
-      "url": "https://lethe-ai.vercel.app",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49257843",
-      "title": "Show HN: An open-source video editor built for coding agents",
-      "url": "https://github.com/diffusionstudio/editor",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49259021",
-      "title": "Show HN: SquadCue – local-first mission control for AI CLI agents",
-      "url": "https://github.com/hsienchuc/squadcue",
       "score": 1
     }
   ]
