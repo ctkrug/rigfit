@@ -1,249 +1,242 @@
 {
-  "fetchedAt": "2026-08-24T09:54:56.661Z",
+  "fetchedAt": "2026-08-31T16:58:49.352Z",
   "entries": [
+    {
+      "source": "huggingface",
+      "id": "zai-org/GLM-5.3",
+      "title": "zai-org/GLM-5.3",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "score": 1338
+    },
+    {
+      "source": "huggingface",
+      "id": "tencent/Hy4-preview",
+      "title": "tencent/Hy4-preview",
+      "url": "https://huggingface.co/tencent/Hy4-preview",
+      "score": 337
+    },
+    {
+      "source": "huggingface",
+      "id": "unsloth/GLM-5.3-Flash-GGUF",
+      "title": "unsloth/GLM-5.3-Flash-GGUF",
+      "url": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
+      "score": 300
+    },
+    {
+      "source": "huggingface",
+      "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "score": 269
+    },
     {
       "source": "huggingface",
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "score": 588
-    },
-    {
-      "source": "hackernews",
-      "id": "49402232",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 417
+      "score": 230
     },
     {
       "source": "huggingface",
-      "id": "ornith-ai/Ornith-1.5-35B-A3B",
-      "title": "ornith-ai/Ornith-1.5-35B-A3B",
-      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
-      "score": 366
+      "id": "BreezeBlue/Breeze-TTS-2",
+      "title": "BreezeBlue/Breeze-TTS-2",
+      "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+      "score": 229
+    },
+    {
+      "source": "hackernews",
+      "id": "49471407",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "score": 220
+    },
+    {
+      "source": "huggingface",
+      "id": "pipecat-ai/phonellm-alpha-1",
+      "title": "pipecat-ai/phonellm-alpha-1",
+      "url": "https://huggingface.co/pipecat-ai/phonellm-alpha-1",
+      "score": 164
     },
     {
       "source": "huggingface",
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "score": 362
+      "score": 136
     },
     {
       "source": "huggingface",
-      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-      "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-      "score": 250
-    },
-    {
-      "source": "huggingface",
-      "id": "superwhisper/s1-mini",
-      "title": "superwhisper/s1-mini",
-      "url": "https://huggingface.co/superwhisper/s1-mini",
-      "score": 216
-    },
-    {
-      "source": "huggingface",
-      "id": "z-lab/Qwen3.8-27B-DFlash2",
-      "title": "z-lab/Qwen3.8-27B-DFlash2",
-      "url": "https://huggingface.co/z-lab/Qwen3.8-27B-DFlash2",
-      "score": 207
-    },
-    {
-      "source": "huggingface",
-      "id": "ornith-ai/Ornith-1.5-9B",
-      "title": "ornith-ai/Ornith-1.5-9B",
-      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-9B",
-      "score": 183
-    },
-    {
-      "source": "huggingface",
-      "id": "ornith-ai/Ornith-1.5-9B-GGUF",
-      "title": "ornith-ai/Ornith-1.5-9B-GGUF",
-      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
-      "score": 166
-    },
-    {
-      "source": "huggingface",
-      "id": "incoai/Qwen3.8-27B-DFlash2",
-      "title": "incoai/Qwen3.8-27B-DFlash2",
-      "url": "https://huggingface.co/incoai/Qwen3.8-27B-DFlash2",
-      "score": 165
+      "id": "ornith-ai/Ornith-1.5-35B-A3B",
+      "title": "ornith-ai/Ornith-1.5-35B-A3B",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
+      "score": 122
     },
     {
       "source": "huggingface",
       "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-      "score": 155
-    },
-    {
-      "source": "huggingface",
-      "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-      "score": 147
-    },
-    {
-      "source": "huggingface",
-      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "url": "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "score": 146
-    },
-    {
-      "source": "huggingface",
-      "id": "EschaLabs/Qwen3.8-27B-Escha-W2",
-      "title": "EschaLabs/Qwen3.8-27B-Escha-W2",
-      "url": "https://huggingface.co/EschaLabs/Qwen3.8-27B-Escha-W2",
-      "score": 120
-    },
-    {
-      "source": "hackernews",
-      "id": "49332751",
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "url": "https://speko.ai/",
-      "score": 118
-    },
-    {
-      "source": "huggingface",
-      "id": "Qwen/Qwen3.8-2.4T-A95B",
-      "title": "Qwen/Qwen3.8-2.4T-A95B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "score": 117
     },
     {
       "source": "huggingface",
-      "id": "incoai/Qwen3.8-27B-DFlash2-GGUF",
-      "title": "incoai/Qwen3.8-27B-DFlash2-GGUF",
-      "url": "https://huggingface.co/incoai/Qwen3.8-27B-DFlash2-GGUF",
-      "score": 113
+      "id": "orcarouter/GLM-5.3-Flash-Uncensored-FP8",
+      "title": "orcarouter/GLM-5.3-Flash-Uncensored-FP8",
+      "url": "https://huggingface.co/orcarouter/GLM-5.3-Flash-Uncensored-FP8",
+      "score": 112
+    },
+    {
+      "source": "huggingface",
+      "id": "ibm-granite/granite-4.2-30b",
+      "title": "ibm-granite/granite-4.2-30b",
+      "url": "https://huggingface.co/ibm-granite/granite-4.2-30b",
+      "score": 96
+    },
+    {
+      "source": "huggingface",
+      "id": "apodex/Apodex-1.1-mini",
+      "title": "apodex/Apodex-1.1-mini",
+      "url": "https://huggingface.co/apodex/Apodex-1.1-mini",
+      "score": 94
+    },
+    {
+      "source": "huggingface",
+      "id": "incoai/GLM-5.3-Flash-DFlash2",
+      "title": "incoai/GLM-5.3-Flash-DFlash2",
+      "url": "https://huggingface.co/incoai/GLM-5.3-Flash-DFlash2",
+      "score": 90
+    },
+    {
+      "source": "huggingface",
+      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "score": 86
     },
     {
       "source": "hackernews",
-      "id": "49363710",
-      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-      "url": "https://github.com/onecli/onecli",
-      "score": 87
-    },
-    {
-      "source": "hackernews",
-      "id": "49330604",
-      "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
-      "url": "https://1667.ai/",
-      "score": 37
-    },
-    {
-      "source": "hackernews",
-      "id": "49389339",
-      "title": "Code Obfuscation via Local Mixing",
-      "url": "https://vitalik.eth.limo/general/2026/08/21/obfuscation_part_iii_local_mixing.html",
-      "score": 34
-    },
-    {
-      "source": "hackernews",
-      "id": "49374554",
-      "title": "Show HN: LilScript makes JavaScript libraries smaller",
-      "url": "https://news.ycombinator.com/item?id=49374554",
-      "score": 14
-    },
-    {
-      "source": "hackernews",
-      "id": "49350637",
-      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
-      "url": "https://pantheongpu.com/",
-      "score": 13
-    },
-    {
-      "source": "hackernews",
-      "id": "49380122",
-      "title": "Teaching a local LLM to reason about a new domain through continued pretraining",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
-      "score": 6
-    },
-    {
-      "source": "hackernews",
-      "id": "49362047",
-      "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
-      "url": "https://github.com/danielealbano/android-remote-control-mcp/",
-      "score": 6
-    },
-    {
-      "source": "hackernews",
-      "id": "49387684",
-      "title": "Good Results when training Qwen 3 4B to learn a new domain",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
+      "id": "49464732",
+      "title": "Show HN: Millnew AI – Explaining time-series models using local LLMs and Captum",
+      "url": "https://robinhood-demo.streamlit.app/",
       "score": 5
     },
     {
       "source": "hackernews",
-      "id": "49362974",
-      "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
-      "url": "https://github.com/inxm-ai/inxm-local",
-      "score": 5
+      "id": "49451167",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "score": 4
     },
     {
       "source": "hackernews",
-      "id": "49405912",
-      "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
-      "url": "https://github.com/AntoineChatry/Dictata",
+      "id": "49447785",
+      "title": "Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs",
+      "url": "https://github.com/muhammadmahadazher/ModelMRI",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "49477063",
+      "title": "Ask HN: Best open source way to run local open-weight LLMs in 2026?",
+      "url": "https://news.ycombinator.com/item?id=49477063",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "49434639",
+      "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
+      "url": "https://github.com/rudrasatani13/cot-redteam-agent",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "49430951",
+      "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
+      "url": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "49408697",
-      "title": "Daimon – Local Privacy LLM",
-      "url": "https://github.com/ar0per0/Daimon",
+      "id": "49432395",
+      "title": "Show HN: Trace – Offline Mac meeting transcription, overhauled from HN feedback",
+      "url": "https://traceapp.info/changelog",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "49446964",
+      "title": "Show HN: Code Stitcher – Apply any LLM output to your local codebase",
+      "url": "https://news.ycombinator.com/item?id=49446964",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "49496137",
+      "title": "Show HN: VelocityNote – A tiny Markdown notebook with local AI",
+      "url": "https://velocitynote.app/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49343170",
-      "title": "GenOffice fork that works with any local LLM instead of a cloud account",
-      "url": "https://github.com/douglas168/open-genoffice",
+      "id": "49498526",
+      "title": "Running an LLM in the Browser: Verifying WebGPU, and Local Inference",
+      "url": "https://capytoolkit.com/blog/developer-tools/running-llm-browser-verifying-webgpu-model-hashes-local-inference/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49371913",
-      "title": "Offline RAG on iOS with Spatial Integration",
-      "url": "https://news.ycombinator.com/item?id=49371913",
+      "id": "49491642",
+      "title": "A local scrubber for text you're about to send to an LLM",
+      "url": "https://github.com/Sushmey/Redact/tree/main",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49368474",
-      "title": "The Arduino UNO Q is an almost perfect Hermes Agent host",
-      "url": "https://news.ycombinator.com/item?id=49368474",
+      "id": "49511274",
+      "title": "Show HN: Turn repeated coding-agent corrections into rules/skills",
+      "url": "https://blume.codes",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49330655",
-      "title": "Show HN: Stressing LLMs – Complexity Benchmark",
-      "url": "https://alexander-hanel.github.io/StressingLLMs/",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49394859",
-      "title": "Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux",
-      "url": "https://www.chickenbutt.dev/",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49342507",
-      "title": "PurgeHound – Use the power of local LLM to declutter a Maildir folder",
-      "url": "https://git.cerberusgames.ca/Starstreak/PurgeHound/",
+      "id": "49511401",
+      "title": "Show HN: I benchmark local LLMs on real bugs from my own repo's Git history",
+      "url": "https://informant.reiners.io/gauntlet",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49339675",
-      "title": "Privibe – LLM CLI Local first+privacy focus+llama.cpp cache branch and Qwen3.x",
-      "url": "https://github.com/alainnothere/privibe/tree/main",
+      "id": "49476598",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "49463853",
+      "title": "What the Model – Local LLM Inventory for macOS",
+      "url": "https://github.com/powtac/wtm",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "49460820",
+      "title": "Xiaomi AI Cube Targets Local LLMs with 1.22 TB/S Near-Memory Bandwidth",
+      "url": "https://www.hardware-corner.net/xiaomi-ai-cube-targets-local-llms/",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "49430970",
+      "title": "Abby Steele: An Offline AI Personality Powered by a Local LLM and Chess Engine",
+      "url": "https://www.abbysteele.com",
+      "score": 1
+    },
+    {
+      "source": "hackernews",
+      "id": "49473557",
+      "title": "Show HN: Node.js back end library is 1.0 now",
+      "url": "https://github.com/vseryakov/backendjs",
       "score": 1
     }
   ]
