@@ -1,249 +1,249 @@
 {
-  "fetchedAt": "2026-09-07T14:58:14.571Z",
+  "fetchedAt": "2026-09-14T15:49:45.479Z",
   "entries": [
+    {
+      "source": "huggingface",
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "score": 2116
+    },
+    {
+      "source": "huggingface",
+      "id": "Edge0/Edge0-35B-A3B-preview",
+      "title": "Edge0/Edge0-35B-A3B-preview",
+      "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+      "score": 1549
+    },
+    {
+      "source": "huggingface",
+      "id": "openbmb/MiniCPM5-2B",
+      "title": "openbmb/MiniCPM5-2B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "score": 1087
+    },
+    {
+      "source": "huggingface",
+      "id": "nex-agi/Nex-N2.5-mini",
+      "title": "nex-agi/Nex-N2.5-mini",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+      "score": 615
+    },
+    {
+      "source": "huggingface",
+      "id": "nex-agi/Nex-N2.5-Pro",
+      "title": "nex-agi/Nex-N2.5-Pro",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+      "score": 483
+    },
     {
       "source": "huggingface",
       "id": "XHToken/Spark-X2.5-4B",
       "title": "XHToken/Spark-X2.5-4B",
       "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-      "score": 561
-    },
-    {
-      "source": "huggingface",
-      "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "score": 437
-    },
-    {
-      "source": "huggingface",
-      "id": "zai-org/GLM-5.3",
-      "title": "zai-org/GLM-5.3",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "score": 254
-    },
-    {
-      "source": "huggingface",
-      "id": "BreezeBlue/Breeze-TTS-2",
-      "title": "BreezeBlue/Breeze-TTS-2",
-      "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
-      "score": 231
+      "score": 429
     },
     {
       "source": "huggingface",
       "id": "openai-community/gpt2",
       "title": "openai-community/gpt2",
       "url": "https://huggingface.co/openai-community/gpt2",
-      "score": 213
+      "score": 204
+    },
+    {
+      "source": "huggingface",
+      "id": "openbmb/MiniCPM5-2B-GGUF",
+      "title": "openbmb/MiniCPM5-2B-GGUF",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B-GGUF",
+      "score": 195
+    },
+    {
+      "source": "huggingface",
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "title": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "score": 178
+    },
+    {
+      "source": "huggingface",
+      "id": "TokenRhythm/NeoHorse-1-4B",
+      "title": "TokenRhythm/NeoHorse-1-4B",
+      "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
+      "score": 177.5
     },
     {
       "source": "huggingface",
       "id": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
       "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
       "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
-      "score": 197
+      "score": 160
+    },
+    {
+      "source": "huggingface",
+      "id": "Agnes-AI/Agnes-3.0-Flash",
+      "title": "Agnes-AI/Agnes-3.0-Flash",
+      "url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
+      "score": 151
+    },
+    {
+      "source": "huggingface",
+      "id": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "score": 131
+    },
+    {
+      "source": "huggingface",
+      "id": "deepseek-ai/DeepSeek-R1",
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "score": 119
     },
     {
       "source": "huggingface",
       "id": "IFM/K2-Horizon-MoVA-36B-A4B",
       "title": "IFM/K2-Horizon-MoVA-36B-A4B",
       "url": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
-      "score": 188
-    },
-    {
-      "source": "huggingface",
-      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
-      "title": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
-      "url": "https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-GGUF",
-      "score": 134
-    },
-    {
-      "source": "huggingface",
-      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "score": 122
-    },
-    {
-      "source": "huggingface",
-      "id": "tencent/Hy4-preview",
-      "title": "tencent/Hy4-preview",
-      "url": "https://huggingface.co/tencent/Hy4-preview",
-      "score": 106
-    },
-    {
-      "source": "huggingface",
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "score": 104
-    },
-    {
-      "source": "huggingface",
-      "id": "XHToken/Spark-X2.5-1.7B",
-      "title": "XHToken/Spark-X2.5-1.7B",
-      "url": "https://huggingface.co/XHToken/Spark-X2.5-1.7B",
-      "score": 91
-    },
-    {
-      "source": "huggingface",
-      "id": "IFM/K2-Horizon-7B",
-      "title": "IFM/K2-Horizon-7B",
-      "url": "https://huggingface.co/IFM/K2-Horizon-7B",
-      "score": 81
-    },
-    {
-      "source": "huggingface",
-      "id": "IFM/K2-Horizon-MoVA-36B-A4B-GGUF",
-      "title": "IFM/K2-Horizon-MoVA-36B-A4B-GGUF",
-      "url": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B-GGUF",
-      "score": 80
-    },
-    {
-      "source": "huggingface",
-      "id": "unsloth/GLM-5.3-Flash-GGUF",
-      "title": "unsloth/GLM-5.3-Flash-GGUF",
-      "url": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
-      "score": 67
+      "score": 108
     },
     {
       "source": "hackernews",
-      "id": "49571537",
-      "title": "Show HN: Moadim.io – A scheduler for agents",
-      "url": "https://moadim.io/",
-      "score": 36
+      "id": "49660676",
+      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+      "url": "https://github.com/godot-pty/gpty",
+      "score": 96
     },
     {
       "source": "hackernews",
-      "id": "49535465",
-      "title": "Show HN: Serverless reverse geocoding for WebMCP, ESP32, and RP2040",
-      "url": "https://nyatla.github.io/galuchat/",
+      "id": "49603011",
+      "title": "The smallest edge AI device for local LLMs",
+      "url": "https://tiiny.ai/",
+      "score": 22
+    },
+    {
+      "source": "hackernews",
+      "id": "49643496",
+      "title": "Show HN: JavaScript grid and pivot library built for coding agents",
+      "url": "https://news.ycombinator.com/item?id=49643496",
+      "score": 9
+    },
+    {
+      "source": "hackernews",
+      "id": "49678542",
+      "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
+      "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
+      "score": 6
+    },
+    {
+      "source": "hackernews",
+      "id": "49609821",
+      "title": "Why human syntax breaks LLMs (and how to fix agentic coding)",
+      "url": "https://news.ycombinator.com/item?id=49609821",
       "score": 5
     },
     {
       "source": "hackernews",
-      "id": "49553090",
-      "title": "Nvidia launches free tool that links idle computers into personal AI datacenter",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "id": "49692131",
+      "title": "Can a local LLM beat -O3?",
+      "url": "https://tijl.blog/posts/cppcon-local/",
       "score": 4
     },
     {
       "source": "hackernews",
-      "id": "49580654",
-      "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
-      "url": "https://www.phntmcore.com/",
+      "id": "49691534",
+      "title": "Local LLMs vs. Cloud API cost analysis",
+      "url": "https://www.sitepoint.com/local-llms-vs-cloud-api-cost-analysis-2026/",
       "score": 4
     },
     {
       "source": "hackernews",
-      "id": "49591000",
-      "title": "Bobbin: Pentest with a local LLM, so target data never leaves your machine",
-      "url": "https://github.com/daniele110199/bobbin",
+      "id": "49651560",
+      "title": "A $537 Local LLM Machine (2025)",
+      "url": "https://blog.lewman.com/a-537-local-llm-machine.html",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "49561360",
-      "title": "An audio end-of-turn gate before LLM invocation in a local voice-agent pipeline",
-      "url": "https://www.reddit.com/r/LLMDevs/comments/1w6w7cu/i_added_an_audio_endofturn_gate_before_llm/",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "49545211",
-      "title": "Show HN: Harvester, a local first media collection tool for sample based artists",
-      "url": "https://github.com/sxrvys/harvester",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "49523609",
-      "title": "Show HN: Shed – Git Repo Management for Terminal Agents",
-      "url": "https://github.com/AndrewHannigan/shed",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "49511274",
-      "title": "Show HN: Turn repeated coding-agent corrections into rules/skills",
-      "url": "https://blume.codes",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "49592597",
-      "title": "Speech2Speech – browser-based STT and TTS for interacting with local LLMs",
-      "url": "https://github.com/rhulha/Speech2Speech",
+      "id": "49689250",
+      "title": "Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS",
+      "url": "https://github.com/swobuforge/swobu",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49586810",
-      "title": "I track LLM API prices daily, found a 33x cost gap in the same model",
-      "url": "https://news.ycombinator.com/item?id=49586810",
+      "id": "49627949",
+      "title": "Which Mac for Local LLMs in 2026? A Buyer's Guide",
+      "url": "https://vettedconsumer.com/which-mac-for-local-llms-2026-buyers-guide/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49542315",
-      "title": "Run any LLM in t3's Codex and Claude tabs through a local gateway",
-      "url": "https://github.com/0xhsn/proxy-llms",
+      "id": "49608238",
+      "title": "What Can You Do with a Local LLM?",
+      "url": "https://grigio.org/what-can-you-actually-do-with-a-local-llm/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49511401",
-      "title": "Show HN: I benchmark local LLMs on real bugs from my own repo's Git history",
-      "url": "https://informant.reiners.io/gauntlet",
+      "id": "49690947",
+      "title": "Show HN: I made a tiny MoE/Engram viz tool",
+      "url": "https://sw-ml-study.github.io/moe-microscope/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49647573",
+      "title": "Ask HN: Would you pay to have your favorite AI agents in one app?",
+      "url": "https://news.ycombinator.com/item?id=49647573",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49675987",
+      "title": "Show HN: Lab – Local-first, serverless browser client for LLMs",
+      "url": "https://labstudio.tech",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49684243",
+      "title": "Local AI app that vibecodes websites, generates images and videos and musics",
+      "url": "https://www.llm-hub.app",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49662907",
+      "title": "My golf simulator now hosts local LLMs",
+      "url": "https://yatharth.xyz/blog/why-redmonitor",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49598698",
-      "title": "Tracarbon: Track GPU power and carbon emissions while running local LLMs",
-      "url": "https://github.com/fvaleye/tracarbon",
+      "id": "49624340",
+      "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
+      "url": "https://eris-system.dev/blog/tool-routing",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49586853",
-      "title": "Show HN: Local 3D LLM Sandbox a tiny assistant with an attitude",
-      "url": "https://github.com/franciscocarloserra/llm-sandbox/",
+      "id": "49609154",
+      "title": "Show HN: Self-Hosted Code Review Agent for Local LLM",
+      "url": "https://github.com/seoes/proval",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49568634",
-      "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
-      "url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
+      "id": "49603149",
+      "title": "DoodleIQ – Rent your idle local-LLM machine to others by the second",
+      "url": "https://www.doodleiq.com/",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49530702",
-      "title": "HybridInfer: Local-first LLM router that falls back to cloud on failure",
-      "url": "https://github.com/SimranKoul2026/HybridInfer-Python-tool",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49519473",
-      "title": "Show HN: PromptLab – Local-first Chrome sidepanel for LLM prompt testing",
-      "url": "https://github.com/timgioh/PromptLab-Local-First-LLM-Prompt-Testing-in-Your-Browser",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49589526",
-      "title": "Show HN: Local audit trail for Claude Code tool calls",
-      "url": "https://github.com/zaghaghi/toolog",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49591238",
-      "title": "Show HN: MaskShift – a maximalist coding agent with zero NPM dependencies",
-      "url": "https://github.com/nafeeur/MaskShift",
+      "id": "49615382",
+      "title": "Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs",
+      "url": "https://github.com/aminueza/Keyfence",
       "score": 1
     }
   ]
