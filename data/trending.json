@@ -1,249 +1,249 @@
 {
-  "fetchedAt": "2026-09-14T15:49:45.479Z",
+  "fetchedAt": "2026-09-21T15:49:15.331Z",
   "entries": [
+    {
+      "source": "huggingface",
+      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "score": 1543
+    },
+    {
+      "source": "huggingface",
+      "id": "XingChen-AGI/Xing4.0-29B-A4B",
+      "title": "XingChen-AGI/Xing4.0-29B-A4B",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "score": 943
+    },
     {
       "source": "huggingface",
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-      "score": 2116
+      "score": 815
     },
     {
       "source": "huggingface",
-      "id": "Edge0/Edge0-35B-A3B-preview",
-      "title": "Edge0/Edge0-35B-A3B-preview",
-      "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
-      "score": 1549
+      "id": "harshatheg/Qwen-2.5-1B-RLCD",
+      "title": "harshatheg/Qwen-2.5-1B-RLCD",
+      "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+      "score": 482
+    },
+    {
+      "source": "huggingface",
+      "id": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+      "title": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+      "score": 293
+    },
+    {
+      "source": "huggingface",
+      "id": "Altworld/Hemmingway-1",
+      "title": "Altworld/Hemmingway-1",
+      "url": "https://huggingface.co/Altworld/Hemmingway-1",
+      "score": 285
     },
     {
       "source": "huggingface",
       "id": "openbmb/MiniCPM5-2B",
       "title": "openbmb/MiniCPM5-2B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
-      "score": 1087
+      "score": 236
     },
     {
       "source": "huggingface",
-      "id": "nex-agi/Nex-N2.5-mini",
-      "title": "nex-agi/Nex-N2.5-mini",
-      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-      "score": 615
-    },
-    {
-      "source": "huggingface",
-      "id": "nex-agi/Nex-N2.5-Pro",
-      "title": "nex-agi/Nex-N2.5-Pro",
-      "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
-      "score": 483
-    },
-    {
-      "source": "huggingface",
-      "id": "XHToken/Spark-X2.5-4B",
-      "title": "XHToken/Spark-X2.5-4B",
-      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-      "score": 429
-    },
-    {
-      "source": "huggingface",
-      "id": "openai-community/gpt2",
-      "title": "openai-community/gpt2",
-      "url": "https://huggingface.co/openai-community/gpt2",
-      "score": 204
-    },
-    {
-      "source": "huggingface",
-      "id": "openbmb/MiniCPM5-2B-GGUF",
-      "title": "openbmb/MiniCPM5-2B-GGUF",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-2B-GGUF",
-      "score": 195
-    },
-    {
-      "source": "huggingface",
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "title": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "score": 178
-    },
-    {
-      "source": "huggingface",
-      "id": "TokenRhythm/NeoHorse-1-4B",
-      "title": "TokenRhythm/NeoHorse-1-4B",
-      "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
-      "score": 177.5
-    },
-    {
-      "source": "huggingface",
-      "id": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
-      "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
-      "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
-      "score": 160
-    },
-    {
-      "source": "huggingface",
-      "id": "Agnes-AI/Agnes-3.0-Flash",
-      "title": "Agnes-AI/Agnes-3.0-Flash",
-      "url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
-      "score": 151
+      "id": "TokenRhythm/NeoHorse-1-9B",
+      "title": "TokenRhythm/NeoHorse-1-9B",
+      "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-9B",
+      "score": 201
     },
     {
       "source": "huggingface",
       "id": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
       "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
       "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-      "score": 131
+      "score": 156
     },
     {
       "source": "huggingface",
-      "id": "deepseek-ai/DeepSeek-R1",
-      "title": "deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "score": 119
+      "id": "Cactus-Compute/needle3",
+      "title": "Cactus-Compute/needle3",
+      "url": "https://huggingface.co/Cactus-Compute/needle3",
+      "score": 153
     },
     {
       "source": "huggingface",
-      "id": "IFM/K2-Horizon-MoVA-36B-A4B",
-      "title": "IFM/K2-Horizon-MoVA-36B-A4B",
-      "url": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
-      "score": 108
+      "id": "audnai/penclaw-GLM-5.3-abliterated",
+      "title": "audnai/penclaw-GLM-5.3-abliterated",
+      "url": "https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated",
+      "score": 151
+    },
+    {
+      "source": "huggingface",
+      "id": "XHToken/Spark-X2.5-4B",
+      "title": "XHToken/Spark-X2.5-4B",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "score": 121
+    },
+    {
+      "source": "huggingface",
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "title": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "score": 120
+    },
+    {
+      "source": "huggingface",
+      "id": "Edge0/Edge0-35B-A3B-preview",
+      "title": "Edge0/Edge0-35B-A3B-preview",
+      "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+      "score": 115.30000000000001
+    },
+    {
+      "source": "huggingface",
+      "id": "yandex/AliceAI-Foundation-80B-A3B-Base",
+      "title": "yandex/AliceAI-Foundation-80B-A3B-Base",
+      "url": "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
+      "score": 115
     },
     {
       "source": "hackernews",
-      "id": "49660676",
-      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-      "url": "https://github.com/godot-pty/gpty",
-      "score": 96
+      "id": "49767564",
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "url": "https://github.com/trycua/cua",
+      "score": 89
     },
     {
       "source": "hackernews",
-      "id": "49603011",
-      "title": "The smallest edge AI device for local LLMs",
-      "url": "https://tiiny.ai/",
-      "score": 22
+      "id": "49743049",
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "url": "https://news.ycombinator.com/item?id=49743049",
+      "score": 65
     },
     {
       "source": "hackernews",
-      "id": "49643496",
-      "title": "Show HN: JavaScript grid and pivot library built for coding agents",
-      "url": "https://news.ycombinator.com/item?id=49643496",
+      "id": "49706656",
+      "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+      "url": "https://sunkcost.ai/",
+      "score": 47
+    },
+    {
+      "source": "hackernews",
+      "id": "49728781",
+      "title": "Show HN: SeasonMap – when to travel where? visualized with climate data",
+      "url": "https://seasonmap.app",
+      "score": 23
+    },
+    {
+      "source": "hackernews",
+      "id": "49770070",
+      "title": "ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking",
+      "url": "https://github.com/xanpavle/rocmfix",
       "score": 9
     },
     {
       "source": "hackernews",
-      "id": "49678542",
-      "title": "Booting straight into a local LLM (no linux) on my Raspberry Pi",
-      "url": "https://www.xda-developers.com/raspberry-pi-boots-straight-into-local-llm/",
-      "score": 6
-    },
-    {
-      "source": "hackernews",
-      "id": "49609821",
-      "title": "Why human syntax breaks LLMs (and how to fix agentic coding)",
-      "url": "https://news.ycombinator.com/item?id=49609821",
+      "id": "49759013",
+      "title": "Show HN: OnPanda – Steer LLMs and agents at the token level",
+      "url": "https://onpanda.diyer22.com/",
       "score": 5
     },
     {
       "source": "hackernews",
-      "id": "49692131",
-      "title": "Can a local LLM beat -O3?",
-      "url": "https://tijl.blog/posts/cppcon-local/",
-      "score": 4
+      "id": "49702887",
+      "title": "Show HN: Slowave – local adaptive memory for coding agents",
+      "url": "https://github.com/slowave-ai/slowave",
+      "score": 5
     },
     {
       "source": "hackernews",
-      "id": "49691534",
-      "title": "Local LLMs vs. Cloud API cost analysis",
-      "url": "https://www.sitepoint.com/local-llms-vs-cloud-api-cost-analysis-2026/",
-      "score": 4
-    },
-    {
-      "source": "hackernews",
-      "id": "49651560",
-      "title": "A $537 Local LLM Machine (2025)",
-      "url": "https://blog.lewman.com/a-537-local-llm-machine.html",
+      "id": "49742415",
+      "title": "Benchmarking Local LLM Servers: Llama.cpp, Llamafile, LM Studio, and Ollama",
+      "url": "https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "49689250",
-      "title": "Show HN: Swobu – Local LLM Switchboard You Can Share over HTTPS",
-      "url": "https://github.com/swobuforge/swobu",
+      "id": "49720322",
+      "title": "Probably the best laptop with Linux support and Local LLM AI [video]",
+      "url": "https://www.youtube.com/watch?v=it7TAwjwH5E",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "49775304",
+      "title": "AAA AI – Autonomous AI agent squads for local and cloud LLMs",
+      "url": "https://aaaai.me/",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "49768302",
+      "title": "Mac Mini Alternatives for Local LLMs: M6, M5 and Strix Halo",
+      "url": "https://terminalbytes.com/mac-mini-alternatives-local-llm-2026/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49627949",
-      "title": "Which Mac for Local LLMs in 2026? A Buyer's Guide",
-      "url": "https://vettedconsumer.com/which-mac-for-local-llms-2026-buyers-guide/",
+      "id": "49739917",
+      "title": "Best hardware for local LLMs in 2026: Mac vs. Nvidia vs. AMD",
+      "url": "https://macyou.co/compare/local-llm-hardware",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49608238",
-      "title": "What Can You Do with a Local LLM?",
-      "url": "https://grigio.org/what-can-you-actually-do-with-a-local-llm/",
+      "id": "49727643",
+      "title": "System One Lite – typed decisions from a local LLM, with no generated tokens",
+      "url": "https://github.com/snellingio/system-one",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49690947",
-      "title": "Show HN: I made a tiny MoE/Engram viz tool",
-      "url": "https://sw-ml-study.github.io/moe-microscope/",
+      "id": "49719027",
+      "title": "Local LLM engine where a tool call cut by the token limit still parses",
+      "url": "https://xyntetik.com/runner/truncation-safe-tool-calling/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49647573",
-      "title": "Ask HN: Would you pay to have your favorite AI agents in one app?",
-      "url": "https://news.ycombinator.com/item?id=49647573",
+      "id": "49785562",
+      "title": "Show HN: Maki, an open-source multi-agent LLM framework (local or hosted)",
+      "url": "https://github.com/BowlOfData/maki",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49675987",
-      "title": "Show HN: Lab – Local-first, serverless browser client for LLMs",
-      "url": "https://labstudio.tech",
+      "id": "49788178",
+      "title": "Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table",
+      "url": "https://github.com/pokertools-arena/pokertools-arena.github.io",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49684243",
-      "title": "Local AI app that vibecodes websites, generates images and videos and musics",
-      "url": "https://www.llm-hub.app",
+      "id": "49765787",
+      "title": "Splash Engine – The Fastest Local Qwen3.8 on Apple Silicon",
+      "url": "https://lmstudio.ai/blog/splash-engine",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49662907",
-      "title": "My golf simulator now hosts local LLMs",
-      "url": "https://yatharth.xyz/blog/why-redmonitor",
+      "id": "49757975",
+      "title": "Show HN: Turnpanel is a local first AI workspace",
+      "url": "https://turnpanel.com",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49786773",
+      "title": "LM Studio is a free desktop app to run local LLMs on your own computer",
+      "url": "https://www.lm-studio.net/",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49624340",
-      "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
-      "url": "https://eris-system.dev/blog/tool-routing",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49609154",
-      "title": "Show HN: Self-Hosted Code Review Agent for Local LLM",
-      "url": "https://github.com/seoes/proval",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49603149",
-      "title": "DoodleIQ – Rent your idle local-LLM machine to others by the second",
-      "url": "https://www.doodleiq.com/",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49615382",
-      "title": "Show HN: Keyfence is a local proxy that stops secrets from reaching LLM APIs",
-      "url": "https://github.com/aminueza/Keyfence",
+      "id": "49739491",
+      "title": "Show HN: OpenBot, open source framework similar to Grok Bot",
+      "url": "https://github.com/regnull/openbot",
       "score": 1
     }
   ]
