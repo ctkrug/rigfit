@@ -1,249 +1,249 @@
 {
-  "fetchedAt": "2026-10-05T18:14:06.414Z",
+  "fetchedAt": "2026-10-12T18:51:08.286Z",
   "entries": [
     {
       "source": "huggingface",
-      "id": "Aleph-Alpha/Kolibri-1",
-      "title": "Aleph-Alpha/Kolibri-1",
-      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-      "score": 563
+      "id": "jialinyyzz/humanizer",
+      "title": "jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "score": 1028
+    },
+    {
+      "source": "huggingface",
+      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+      "score": 353
     },
     {
       "source": "huggingface",
       "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
       "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
       "url": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "score": 388
+      "score": 250
     },
     {
       "source": "huggingface",
-      "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "score": 210
-    },
-    {
-      "source": "huggingface",
-      "id": "Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
-      "title": "Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
-      "url": "https://huggingface.co/Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
-      "score": 195
-    },
-    {
-      "source": "hackernews",
-      "id": "49911995",
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "score": 194
-    },
-    {
-      "source": "huggingface",
-      "id": "jialinyyzz/humanizer",
-      "title": "jialinyyzz/humanizer",
-      "url": "https://huggingface.co/jialinyyzz/humanizer",
-      "score": 183
-    },
-    {
-      "source": "huggingface",
-      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "score": 176
+      "id": "Aleph-Alpha/Kolibri-1",
+      "title": "Aleph-Alpha/Kolibri-1",
+      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+      "score": 250
     },
     {
       "source": "huggingface",
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-      "score": 173
+      "score": 164
     },
     {
       "source": "huggingface",
-      "id": "zai-org/GLM-5.3",
-      "title": "zai-org/GLM-5.3",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "score": 122
+      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "score": 152
     },
     {
       "source": "huggingface",
-      "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "title": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "url": "https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "score": 101
+      "id": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "score": 120
     },
     {
       "source": "huggingface",
-      "id": "audnai/penclaw-GLM-5.3-abliterated",
-      "title": "audnai/penclaw-GLM-5.3-abliterated",
-      "url": "https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated",
-      "score": 98
+      "id": "JetBrains/Mellum2.1-12B-A2.5B-Thinking",
+      "title": "JetBrains/Mellum2.1-12B-A2.5B-Thinking",
+      "url": "https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking",
+      "score": 110
+    },
+    {
+      "source": "huggingface",
+      "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "score": 88
+    },
+    {
+      "source": "huggingface",
+      "id": "tencent/Youtu-Parsing-Omni",
+      "title": "tencent/Youtu-Parsing-Omni",
+      "url": "https://huggingface.co/tencent/Youtu-Parsing-Omni",
+      "score": 85
     },
     {
       "source": "huggingface",
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "score": 91
-    },
-    {
-      "source": "huggingface",
-      "id": "autotrust/JEV-9B",
-      "title": "autotrust/JEV-9B",
-      "url": "https://huggingface.co/autotrust/JEV-9B",
       "score": 81
     },
     {
       "source": "huggingface",
-      "id": "IQuestLab/IQuest-Q1",
-      "title": "IQuestLab/IQuest-Q1",
-      "url": "https://huggingface.co/IQuestLab/IQuest-Q1",
+      "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "title": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "score": 80
+    },
+    {
+      "source": "huggingface",
+      "id": "zai-org/GLM-5.3",
+      "title": "zai-org/GLM-5.3",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
       "score": 75
     },
     {
       "source": "huggingface",
-      "id": "Edge0/Audio8-ASR-Infinite",
-      "title": "Edge0/Audio8-ASR-Infinite",
-      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
-      "score": 71.2
+      "id": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF",
+      "title": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF",
+      "url": "https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF",
+      "score": 69
     },
     {
       "source": "huggingface",
-      "id": "orcarouter/OrcaSAQ-2-27B",
-      "title": "orcarouter/OrcaSAQ-2-27B",
-      "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-27B",
-      "score": 71
+      "id": "Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
+      "title": "Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
+      "url": "https://huggingface.co/Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
+      "score": 67
     },
     {
       "source": "hackernews",
-      "id": "49911910",
-      "title": "Show HN: Token compression CLI to save Codex/Astra costs",
-      "url": "https://news.ycombinator.com/item?id=49911910",
-      "score": 12
+      "id": "49996713",
+      "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+      "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+      "score": 52
     },
     {
       "source": "hackernews",
-      "id": "49933664",
-      "title": "Local LLM Won't Stop Talking? It's Not the Model",
-      "url": "https://www.nobodywho.ai/posts/when-chat-templates-go-wrong/",
+      "id": "50006573",
+      "title": "Show HN: Teaching a 30ms local model, play browser games with LLM written rules",
+      "url": "https://github.com/ironbee-ai/ironbee-gamer",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "49969988",
+      "title": "Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
+      "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "50004719",
+      "title": "Show HN: Open-Source DaiDocs now beats Graphify by 218x low tokens, 83% on LME",
+      "url": "https://github.com/Kerneta/daidocs",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "50051689",
+      "title": "Show HN: Gen-system, parser facts about source code for local LLMs",
+      "url": "https://github.com/hpdkhoa/gen-system",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "50027647",
+      "title": "Local LLM Inference at Scale with vLLM",
+      "url": "https://data4sci.substack.com/p/local-llm-inference-at-scale-with",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "49983013",
+      "title": "Show HN: GridCore – a scheduler that lets several local LLMs share one GPU",
+      "url": "https://blokhin.us/notes/gridcore-gpu-scheduler/",
+      "score": 3
+    },
+    {
+      "source": "hackernews",
+      "id": "50039529",
+      "title": "Ask HN: Best Local LLM Box ?",
+      "url": "https://news.ycombinator.com/item?id=50039529",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49921633",
-      "title": "Sriti Core – Local-first LLM router that cascades Ollama to cloud to frontier",
-      "url": "https://github.com/sriti-ai/sriti-core",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49908095",
-      "title": "I Turned 17 Hours of Video into a Second Brain with Local LLM",
-      "url": "https://shramko.dev/blog/second-brain-from-video",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49919349",
-      "title": "SpeakesQuery – Splunk-style search over local Parquet, with LLM pipes",
-      "url": "https://github.com/13alvone/SpeakesQuery",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49934044",
-      "title": "TimeLimit – offline local time limit parental control app without Google",
-      "url": "https://timelimit.io/en/",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49913362",
-      "title": "Show HN: Overboard – Mac agent orchestrator with ship captains that spawn agents",
-      "url": "https://web-production-4f6f5.up.railway.app/",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49941620",
-      "title": "Faster Local LLMs with iPhone Offloading",
-      "url": "https://github.com/StayLameBro/backburner",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49960513",
+      "id": "50029518",
       "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
       "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "50035826",
+      "title": "Show HN: Flopper is a hardware explorer for AI infrastructure and beyond",
+      "url": "https://flopper.io/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49991322",
+      "title": "Show HN: LLM API prices with full price history and a cloud vs. local calculator",
+      "url": "https://tokenbarometer.com",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "49971028",
+      "title": "Show HN: Ototo: Offload code exploration to a smaller model from Claude et al.",
+      "url": "https://ototo.dev/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "50032575",
+      "title": "Local LLM Inference at Scale with vLLM",
+      "url": "https://data4sci.com/blog/local-llm-inference-at-scale-with",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49944983",
-      "title": "Jabhook – Boxing Training (Computer Vision, 3D Biomechanics, Local LLM)",
-      "url": "https://jabhook.ai/",
+      "id": "49975933",
+      "title": "Show HN: Speck – Cognitive architecture for small local LLMs",
+      "url": "https://github.com/doctarock/Speck",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49913937",
-      "title": "TalkScribe – On-device dictation and local LLM rewrite for macOS",
-      "url": "https://talkscribe.app",
+      "id": "49970586",
+      "title": "Show HN: All local LLM(s) on all Apple Devices",
+      "url": "https://simulkit.com/en/mac-local-llm",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49908457",
-      "title": "Local LLM Observability",
-      "url": "https://github.com/LogneBudo/llmxray",
+      "id": "50005230",
+      "title": "Show HN: Gauze fixes (some) open-weight LLM deficiencies",
+      "url": "https://github.com/ggeorgovassilis/llm-gauze",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49885964",
-      "title": "Pklm-sandbox – A lightweight open-source LogitsProcessor for local LLMs",
-      "url": "https://github.com/TheImmortalPython/pklm-sandbox",
+      "id": "50036777",
+      "title": "Show HN: Tutor, a self-hosted LLM tutor that teaches you your books or docs",
+      "url": "https://github.com/demetrius-edelin/tutor",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49958869",
-      "title": "Show HN: Shlexball, describe a file and a local 1.5B model finds it on your Mac",
-      "url": "https://shlexball.com/",
+      "id": "50032037",
+      "title": "If LLMs Can Decide Without Fine-Tuning, Do We Still Need Models Like Jev?",
+      "url": "https://itsodeleo.github.io/posts/local-decision-workflow/",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49963994",
-      "title": "Show HN: Seylo, project files and references your AI can use",
-      "url": "https://seylo.co",
+      "id": "49981900",
+      "title": "Show HN: Delegator – Stop juggling coding-agent sessions",
+      "url": "https://alcubi.ai/delegator/",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49926274",
-      "title": "Show HN: Paper(Local CLI for Agent Debugging)",
-      "url": "https://news.ycombinator.com/item?id=49926274",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49916751",
-      "title": "Ask HN: My agent went haywire, does this output mean anything?",
-      "url": "https://news.ycombinator.com/item?id=49916751",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49892708",
-      "title": "Show HN: Gangway, self-hosted artifacts and apps from folders, PRs, and agents",
-      "url": "https://github.com/charlesabarnes/gangway",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49929101",
-      "title": "Show HN: Simply @dotlink in ChatGPT web,space or dot to access local files,tools",
-      "url": "https://github.com/abird-ai/dotlink/",
+      "id": "50043735",
+      "title": "Show HN: Korosta – Remember and highlight job postings you've seen",
+      "url": "https://chromewebstore.google.com/detail/korosta/dhpnogbefakbfmbihmjkgicbelndidif",
       "score": 1
     }
   ]
