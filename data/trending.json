@@ -1,249 +1,249 @@
 {
-  "fetchedAt": "2026-10-12T18:51:08.286Z",
+  "fetchedAt": "2026-10-19T16:22:33.233Z",
   "entries": [
+    {
+      "source": "huggingface",
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 1471
+    },
     {
       "source": "huggingface",
       "id": "jialinyyzz/humanizer",
       "title": "jialinyyzz/humanizer",
       "url": "https://huggingface.co/jialinyyzz/humanizer",
-      "score": 1028
+      "score": 617
     },
     {
       "source": "huggingface",
-      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
-      "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
-      "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
-      "score": 353
+      "id": "LiquidAI/LFM2.5-24B-A2B",
+      "title": "LiquidAI/LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+      "score": 471
+    },
+    {
+      "source": "hackernews",
+      "id": "50127979",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "score": 327
     },
     {
       "source": "huggingface",
-      "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "url": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "score": 250
+      "id": "tencent/Hy-Memory-30B-A3B",
+      "title": "tencent/Hy-Memory-30B-A3B",
+      "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
+      "score": 208
     },
     {
       "source": "huggingface",
-      "id": "Aleph-Alpha/Kolibri-1",
-      "title": "Aleph-Alpha/Kolibri-1",
-      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-      "score": 250
+      "id": "LiquidAI/LFM2.5-24B-A2B-GGUF",
+      "title": "LiquidAI/LFM2.5-24B-A2B-GGUF",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF",
+      "score": 206
     },
     {
       "source": "huggingface",
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-      "score": 164
+      "score": 174
     },
     {
       "source": "huggingface",
-      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "score": 152
+      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+      "score": 174
+    },
+    {
+      "source": "huggingface",
+      "id": "reflection/Beam-1.0-501B-A23B",
+      "title": "reflection/Beam-1.0-501B-A23B",
+      "url": "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
+      "score": 156
+    },
+    {
+      "source": "huggingface",
+      "id": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "title": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16",
+      "score": 132
+    },
+    {
+      "source": "huggingface",
+      "id": "inclusionAI/Ling-3.1-flash",
+      "title": "inclusionAI/Ling-3.1-flash",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.1-flash",
+      "score": 128
+    },
+    {
+      "source": "hackernews",
+      "id": "50080275",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "score": 121
+    },
+    {
+      "source": "hackernews",
+      "id": "50064470",
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "url": "https://indigene.app/",
+      "score": 119
+    },
+    {
+      "source": "huggingface",
+      "id": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "score": 105
     },
     {
       "source": "huggingface",
       "id": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
       "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
       "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-      "score": 120
+      "score": 98
     },
     {
       "source": "huggingface",
-      "id": "JetBrains/Mellum2.1-12B-A2.5B-Thinking",
-      "title": "JetBrains/Mellum2.1-12B-A2.5B-Thinking",
-      "url": "https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking",
-      "score": 110
+      "id": "NaiveAI/Naive-N0.5-Flash",
+      "title": "NaiveAI/Naive-N0.5-Flash",
+      "url": "https://huggingface.co/NaiveAI/Naive-N0.5-Flash",
+      "score": 93
     },
     {
       "source": "huggingface",
-      "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "score": 88
+      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "score": 82
     },
     {
       "source": "huggingface",
-      "id": "tencent/Youtu-Parsing-Omni",
-      "title": "tencent/Youtu-Parsing-Omni",
-      "url": "https://huggingface.co/tencent/Youtu-Parsing-Omni",
-      "score": 85
-    },
-    {
-      "source": "huggingface",
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "score": 81
-    },
-    {
-      "source": "huggingface",
-      "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "title": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "url": "https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "score": 80
-    },
-    {
-      "source": "huggingface",
-      "id": "zai-org/GLM-5.3",
-      "title": "zai-org/GLM-5.3",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "score": 75
-    },
-    {
-      "source": "huggingface",
-      "id": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF",
-      "title": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF",
-      "url": "https://huggingface.co/JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF",
-      "score": 69
-    },
-    {
-      "source": "huggingface",
-      "id": "Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
-      "title": "Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
-      "url": "https://huggingface.co/Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
-      "score": 67
+      "id": "unsloth/LFM2.5-24B-A2B-GGUF",
+      "title": "unsloth/LFM2.5-24B-A2B-GGUF",
+      "url": "https://huggingface.co/unsloth/LFM2.5-24B-A2B-GGUF",
+      "score": 82
     },
     {
       "source": "hackernews",
-      "id": "49996713",
-      "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-      "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
-      "score": 52
+      "id": "50091275",
+      "title": "Someone on Reddit is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1x4y61f/qwen_27b_at_20_toks_on_a_jailbroken_ps5s_gpu_i/",
+      "score": 11
     },
     {
       "source": "hackernews",
-      "id": "50006573",
-      "title": "Show HN: Teaching a 30ms local model, play browser games with LLM written rules",
-      "url": "https://github.com/ironbee-ai/ironbee-gamer",
+      "id": "50113743",
+      "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 8
+    },
+    {
+      "source": "hackernews",
+      "id": "50106858",
+      "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "score": 6
+    },
+    {
+      "source": "hackernews",
+      "id": "50107729",
+      "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
+      "url": "https://github.com/readysettech/rdst",
+      "score": 6
+    },
+    {
+      "source": "hackernews",
+      "id": "50142277",
+      "title": "Show HN: Pi-cowboy – use Codex, Claude Code, OpenCode as subagents",
+      "url": "https://github.com/electric-dragon-80000v/pi-cowboy",
+      "score": 6
+    },
+    {
+      "source": "hackernews",
+      "id": "50081677",
+      "title": "Membrane – Structured persistent memory for local LLMs",
+      "url": "https://github.com/chedim/membrane",
       "score": 4
     },
     {
       "source": "hackernews",
-      "id": "49969988",
-      "title": "Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
-      "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
+      "id": "50081857",
+      "title": "Show HN: Evaluate and improve your agent steering",
+      "url": "https://news.ycombinator.com/item?id=50081857",
       "score": 4
     },
     {
       "source": "hackernews",
-      "id": "50004719",
-      "title": "Show HN: Open-Source DaiDocs now beats Graphify by 218x low tokens, 83% on LME",
-      "url": "https://github.com/Kerneta/daidocs",
-      "score": 4
-    },
-    {
-      "source": "hackernews",
-      "id": "50051689",
-      "title": "Show HN: Gen-system, parser facts about source code for local LLMs",
-      "url": "https://github.com/hpdkhoa/gen-system",
+      "id": "50129017",
+      "title": "Show HN: Sys2txt – transcribe system audio to text in the CLI with a local LLM",
+      "url": "https://Joe-Heffer.github.io/sys2txt/",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "50027647",
-      "title": "Local LLM Inference at Scale with vLLM",
-      "url": "https://data4sci.substack.com/p/local-llm-inference-at-scale-with",
+      "id": "50109846",
+      "title": "Ask HN: Frontier Capability on Average Computers",
+      "url": "https://news.ycombinator.com/item?id=50109846",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "49983013",
-      "title": "Show HN: GridCore – a scheduler that lets several local LLMs share one GPU",
-      "url": "https://blokhin.us/notes/gridcore-gpu-scheduler/",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "50039529",
-      "title": "Ask HN: Best Local LLM Box ?",
-      "url": "https://news.ycombinator.com/item?id=50039529",
+      "id": "50114848",
+      "title": "Sift – Analyse every file with local LLMs",
+      "url": "https://github.com/c0decave/sift",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "50029518",
-      "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
-      "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
+      "id": "50068748",
+      "title": "How to Choose the Best Local LLM Basis MacBook RAM Size",
+      "url": "https://medium.com/data-science-collective/best-local-llms-for-your-mac-in-october-2026-24gb-to-128gb-picks-7d6f32819dd5",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "50035826",
-      "title": "Show HN: Flopper is a hardware explorer for AI infrastructure and beyond",
-      "url": "https://flopper.io/",
+      "id": "50097011",
+      "title": "Local Model Guide – Find what LLMs fit on your machine",
+      "url": "https://localmodelguide.com/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "49991322",
-      "title": "Show HN: LLM API prices with full price history and a cloud vs. local calculator",
-      "url": "https://tokenbarometer.com",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "49971028",
-      "title": "Show HN: Ototo: Offload code exploration to a smaller model from Claude et al.",
-      "url": "https://ototo.dev/",
-      "score": 2
-    },
-    {
-      "source": "hackernews",
-      "id": "50032575",
-      "title": "Local LLM Inference at Scale with vLLM",
-      "url": "https://data4sci.com/blog/local-llm-inference-at-scale-with",
+      "id": "50141886",
+      "title": "Show HN: Secret Guard – a local LLM gateway; keys never leave your machine",
+      "url": "https://github.com/luochen1990/secret-guard",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49975933",
-      "title": "Show HN: Speck – Cognitive architecture for small local LLMs",
-      "url": "https://github.com/doctarock/Speck",
+      "id": "50110581",
+      "title": "AI Coding Tools – Architecture, Local LLMs and SWE-Bench",
+      "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "49970586",
-      "title": "Show HN: All local LLM(s) on all Apple Devices",
-      "url": "https://simulkit.com/en/mac-local-llm",
+      "id": "50132166",
+      "title": "Ask HN: Non-deterministic leet code small LLM challenge site?",
+      "url": "https://news.ycombinator.com/item?id=50132166",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "50005230",
-      "title": "Show HN: Gauze fixes (some) open-weight LLM deficiencies",
-      "url": "https://github.com/ggeorgovassilis/llm-gauze",
+      "id": "50134132",
+      "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
+      "url": "https://github.com/Annora998/inboxwall",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "50036777",
-      "title": "Show HN: Tutor, a self-hosted LLM tutor that teaches you your books or docs",
-      "url": "https://github.com/demetrius-edelin/tutor",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "50032037",
-      "title": "If LLMs Can Decide Without Fine-Tuning, Do We Still Need Models Like Jev?",
-      "url": "https://itsodeleo.github.io/posts/local-decision-workflow/",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "49981900",
-      "title": "Show HN: Delegator – Stop juggling coding-agent sessions",
-      "url": "https://alcubi.ai/delegator/",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "50043735",
-      "title": "Show HN: Korosta – Remember and highlight job postings you've seen",
-      "url": "https://chromewebstore.google.com/detail/korosta/dhpnogbefakbfmbihmjkgicbelndidif",
+      "id": "50089839",
+      "title": "Show HN: Eulix – Local code index and call graphs for large repos, LLM optional",
+      "url": "https://github.com/Nurysso/eulix",
       "score": 1
     }
   ]
