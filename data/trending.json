@@ -1,249 +1,249 @@
 {
-  "fetchedAt": "2026-10-26T16:01:43.306Z",
+  "fetchedAt": "2026-11-02T19:22:33.538Z",
   "entries": [
+    {
+      "source": "huggingface",
+      "id": "LiquidAI/LFM3-1.7B",
+      "title": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "score": 716
+    },
     {
       "source": "huggingface",
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 1081
-    },
-    {
-      "source": "huggingface",
-      "id": "RecursiveSI/flint",
-      "title": "RecursiveSI/flint",
-      "url": "https://huggingface.co/RecursiveSI/flint",
-      "score": 861
+      "score": 680
     },
     {
       "source": "huggingface",
       "id": "Nanbeige/Nanbeige4.3-33B",
       "title": "Nanbeige/Nanbeige4.3-33B",
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
-      "score": 543
+      "score": 296
+    },
+    {
+      "source": "huggingface",
+      "id": "RecursiveSI/flint",
+      "title": "RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "score": 216
+    },
+    {
+      "source": "huggingface",
+      "id": "Diffuspace/Clover-35B-A3B-Preview",
+      "title": "Diffuspace/Clover-35B-A3B-Preview",
+      "url": "https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview",
+      "score": 210
     },
     {
       "source": "huggingface",
       "id": "XHToken/Spark-X2.6-4B",
       "title": "XHToken/Spark-X2.6-4B",
       "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
-      "score": 535
+      "score": 194
+    },
+    {
+      "source": "huggingface",
+      "id": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+      "title": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+      "url": "https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+      "score": 188
+    },
+    {
+      "source": "huggingface",
+      "id": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
+      "title": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
+      "url": "https://huggingface.co/AtomicChat/LFM3-1.7B-Uncensored-GGUF",
+      "score": 181
+    },
+    {
+      "source": "huggingface",
+      "id": "sensenova/SenseNova-Loop-9B-Preview",
+      "title": "sensenova/SenseNova-Loop-9B-Preview",
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
+      "score": 178
+    },
+    {
+      "source": "huggingface",
+      "id": "LiquidAI/LFM3-1.7B-GGUF",
+      "title": "LiquidAI/LFM3-1.7B-GGUF",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF",
+      "score": 177
     },
     {
       "source": "huggingface",
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
       "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
       "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "score": 311
+      "score": 165
     },
     {
       "source": "huggingface",
-      "id": "InternScience/Sage-A1.5",
-      "title": "InternScience/Sage-A1.5",
-      "url": "https://huggingface.co/InternScience/Sage-A1.5",
-      "score": 299
+      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "title": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "score": 165
     },
     {
-      "source": "huggingface",
-      "id": "unsloth/flint-GGUF",
-      "title": "unsloth/flint-GGUF",
-      "url": "https://huggingface.co/unsloth/flint-GGUF",
-      "score": 252
-    },
-    {
-      "source": "huggingface",
-      "id": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-      "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-      "score": 225
-    },
-    {
-      "source": "huggingface",
-      "id": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "title": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "url": "https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "score": 200
-    },
-    {
-      "source": "huggingface",
-      "id": "HuggingFaceBio/Carbon-X",
-      "title": "HuggingFaceBio/Carbon-X",
-      "url": "https://huggingface.co/HuggingFaceBio/Carbon-X",
-      "score": 191
-    },
-    {
-      "source": "huggingface",
-      "id": "KRAFTON/Raon-1-mini-preview",
-      "title": "KRAFTON/Raon-1-mini-preview",
-      "url": "https://huggingface.co/KRAFTON/Raon-1-mini-preview",
-      "score": 180
-    },
-    {
-      "source": "huggingface",
-      "id": "ornith-ai/Ornith-1.5-122B",
-      "title": "ornith-ai/Ornith-1.5-122B",
-      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-122B",
-      "score": 176
-    },
-    {
-      "source": "huggingface",
-      "id": "jialinyyzz/humanizer",
-      "title": "jialinyyzz/humanizer",
-      "url": "https://huggingface.co/jialinyyzz/humanizer",
-      "score": 166
+      "source": "hackernews",
+      "id": "50294506",
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "url": "https://github.com/johncassil/dontallow",
+      "score": 154
     },
     {
       "source": "huggingface",
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
       "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "score": 146
+      "score": 136
     },
     {
       "source": "huggingface",
-      "id": "XHToken/Spark-X2.6-4B-GGUF",
-      "title": "XHToken/Spark-X2.6-4B-GGUF",
-      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B-GGUF",
-      "score": 144
+      "id": "divagr1925/Qwen3.5-4B-Qwenputer",
+      "title": "divagr1925/Qwen3.5-4B-Qwenputer",
+      "url": "https://huggingface.co/divagr1925/Qwen3.5-4B-Qwenputer",
+      "score": 133
+    },
+    {
+      "source": "huggingface",
+      "id": "LiquidAI/LFM3-1.7B-Base",
+      "title": "LiquidAI/LFM3-1.7B-Base",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B-Base",
+      "score": 114
     },
     {
       "source": "hackernews",
-      "id": "50167583",
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "url": "https://news.ycombinator.com/item?id=50167583",
-      "score": 53
+      "id": "50339913",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "score": 68
     },
     {
       "source": "hackernews",
-      "id": "50201860",
-      "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
-      "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
-      "score": 9
+      "id": "50337431",
+      "title": "Ask HN: What hardware are you using to run local LLMs?",
+      "url": "https://news.ycombinator.com/item?id=50337431",
+      "score": 15
     },
     {
       "source": "hackernews",
-      "id": "50170201",
-      "title": "Show HN: Gauge CLI – Open-Source Hillclimbing for Agent Experience",
-      "url": "https://github.com/gauge-sh/gauge-cli",
-      "score": 5
+      "id": "50258875",
+      "title": "Show HN: Markdown is 40× more token-efficient with SQLite",
+      "url": "https://www.withnative.ai/research-and-posts/markdown-context-benchmark",
+      "score": 11
     },
     {
       "source": "hackernews",
-      "id": "50185801",
-      "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
-      "url": "https://twitter.com/RichardSocher/status/2112944385415426249",
-      "score": 4
-    },
-    {
-      "source": "hackernews",
-      "id": "50170581",
+      "id": "50279017",
       "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
       "url": "https://rocus.io/",
       "score": 4
     },
     {
       "source": "hackernews",
-      "id": "50228314",
-      "title": "Show HN: Independent Vet – Find locally owned vets (and corporate ones) near you",
-      "url": "https://independentvet.com/",
+      "id": "50273311",
+      "title": "Show HN: Harness Corp – An incremental game powered by a local LLM using WebGPU",
+      "url": "https://simedw.com/projects/harness-corp/",
       "score": 4
     },
     {
       "source": "hackernews",
-      "id": "50235357",
-      "title": "NeuronDump: Open a local LLM as a 3D graph, cut parts, see what breaks",
-      "url": "https://github.com/aymen94/NeuronDump",
+      "id": "50317561",
+      "title": "Local Inference with LLMs",
+      "url": "https://jacquesmattheij.com/local-inference-with-large-language-models/",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "50311029",
+      "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
+      "url": "https://www.fastbrowse.ai/",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "50330601",
+      "title": "Show HN: CheckOwners to find your repo's hidden single points of failure",
+      "url": "https://github.com/smusali/checkOwners",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "50185265",
-      "title": "macOS 27 has a built-in, offline LLM you can call from Terminal",
-      "url": "https://news.ycombinator.com/item?id=50185265",
+      "id": "50314538",
+      "title": "Show HN: Imza – plan and review focused coding agent",
+      "url": "https://github.com/umutsevdi/imza",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "50169363",
-      "title": "Show HN: Contrack – Self-hosted contact manager and people search",
-      "url": "https://github.com/arvarik/contrack",
+      "id": "50327798",
+      "title": "Show HN: 2D world SIM where each creature runs a text classifier in the browser",
+      "url": "https://id-le.com/?lab&halloween",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "50214578",
-      "title": "Show HN: Dánwò – Open-source E2E testing with emulators and fault injection",
-      "url": "https://github.com/carbonmeai/danwo",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "50199148",
-      "title": "Hornet: Building Durable Workflows for Local LLMs",
-      "url": "https://github.com/matrixswarm/hornet",
+      "id": "50271343",
+      "title": "Does the code compile? Five local models on a DGX Spark, five runs each",
+      "url": "https://borisivanov.com/notes/local-llm-compile-bench/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "50225764",
-      "title": "Show HN: A client-side adaptive cognitive test measuring micro-hesitations",
-      "url": "https://kat-assessment.com/",
+      "id": "50270574",
+      "title": "Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM",
+      "url": "https://www.mybotsai.com/",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "50194948",
-      "title": "Tested 18 new Local LLMs on two RTX 5060 Ti cards: none replaced Qwen3.8-27B",
-      "url": "https://siimtolk.github.io/articles/llm-testing-overnight/",
+      "id": "50286113",
+      "title": "Show HN: MealWords – Show waiters what you can't eat, in their language",
+      "url": "https://mealwords.com/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "50275266",
+      "title": "Show HN: Coding agent spots your AI practices and the ones you're missing",
+      "url": "https://app.userrank.ai/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "50330224",
+      "title": "Show HN: Corollary, LaTeX Editor for Mac with On-Device Apple Foundation Models",
+      "url": "https://calvinyz.github.io/corollary/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "50258702",
+      "title": "Friendly UI and server and agent for local LLMs",
+      "url": "https://github.com/yudhanjaya/Zest",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "50210227",
-      "title": "Ask HN: Secure minimalistic web front-ends to Local LLM's?",
-      "url": "https://news.ycombinator.com/item?id=50210227",
+      "id": "50302895",
+      "title": "Local Inference with LLMs",
+      "url": "https://jacquesmattheij.com/local-inference-with-large-language-models/",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "50170273",
-      "title": "EGPU and Local LLM Inference",
-      "url": "https://pgaleone.eu/ai/2026/10/20/eGPU-for-local-llm-inference/",
+      "id": "50274683",
+      "title": "A garbage collector for LLM context windows, written in Rust",
+      "url": "https://news.ycombinator.com/item?id=50274683",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "50242526",
-      "title": "Show HN: Graph-MIND – Local memory for AI coding agents, no LLM calls to save",
-      "url": "https://github.com/goyohan0611-png/graph-mind",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "50207612",
-      "title": "Local AI Report#7–Machine-Speed Attacks: Breaches and Where Local AI Fits",
-      "url": "https://llmconfigurator.com/en/reports/ai-cyber-threats-2026-local-ai",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "50240121",
-      "title": "Show HN: Tabverse – a free, open-source, with self-hostable server Workona clone",
-      "url": "https://news.ycombinator.com/item?id=50240121",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "50242862",
-      "title": "Show HN: UnCode – Local voice dictation for Linux",
-      "url": "https://github.com/XLongLink/uncode",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "50180215",
-      "title": "Show HN: Peras – Pause Claude Code and Codex before they burn your weekly limit",
-      "url": "https://peras.vertias.eu/",
+      "id": "50290746",
+      "title": "Show HN: StrictLLM – For when you need human-in-the-loop",
+      "url": "https://strictllm.com",
       "score": 1
     }
   ]
