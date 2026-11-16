@@ -1,249 +1,249 @@
 {
-  "fetchedAt": "2026-11-09T19:41:07.075Z",
+  "fetchedAt": "2026-11-16T19:27:45.071Z",
   "entries": [
     {
       "source": "huggingface",
       "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
       "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
       "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "score": 809
+      "score": 2998.1
+    },
+    {
+      "source": "hackernews",
+      "id": "50454625",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 305
     },
     {
       "source": "huggingface",
       "id": "moonshotai/Kimi-K3.1-Pro",
       "title": "moonshotai/Kimi-K3.1-Pro",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "score": 583.5
+      "score": 273
     },
     {
       "source": "huggingface",
       "id": "NousResearch/Arete-27B",
       "title": "NousResearch/Arete-27B",
       "url": "https://huggingface.co/NousResearch/Arete-27B",
-      "score": 333
-    },
-    {
-      "source": "huggingface",
-      "id": "webAI-Official/TwIL-8B",
-      "title": "webAI-Official/TwIL-8B",
-      "url": "https://huggingface.co/webAI-Official/TwIL-8B",
-      "score": 244
-    },
-    {
-      "source": "huggingface",
-      "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
-      "title": "ccore/Qwen3.5-4B-GLB-3D-Coder",
-      "url": "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder",
-      "score": 192
-    },
-    {
-      "source": "huggingface",
-      "id": "Scantist/GLM-5.3-SLIM-GGUF",
-      "title": "Scantist/GLM-5.3-SLIM-GGUF",
-      "url": "https://huggingface.co/Scantist/GLM-5.3-SLIM-GGUF",
-      "score": 184
-    },
-    {
-      "source": "huggingface",
-      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "title": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "score": 174
-    },
-    {
-      "source": "huggingface",
-      "id": "baidu/ERNIE-5.5-Flash-Base",
-      "title": "baidu/ERNIE-5.5-Flash-Base",
-      "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
-      "score": 172
-    },
-    {
-      "source": "huggingface",
-      "id": "LiquidAI/LFM3-1.7B",
-      "title": "LiquidAI/LFM3-1.7B",
-      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
-      "score": 153
+      "score": 271
     },
     {
       "source": "huggingface",
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 142.5
+      "score": 235
     },
     {
       "source": "huggingface",
-      "id": "tencent/Qwen3.8-27B-DSpine-b16",
-      "title": "tencent/Qwen3.8-27B-DSpine-b16",
-      "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
-      "score": 142
+      "id": "Edge0/Edge0-145B-NVFP4",
+      "title": "Edge0/Edge0-145B-NVFP4",
+      "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
+      "score": 146
     },
     {
       "source": "huggingface",
-      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
-      "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
-      "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
-      "score": 133
-    },
-    {
-      "source": "hackernews",
-      "id": "50368804",
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "score": 112
+      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "title": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "score": 131.6
     },
     {
       "source": "huggingface",
-      "id": "sensenova/SenseNova-Loop-9B-Preview",
-      "title": "sensenova/SenseNova-Loop-9B-Preview",
-      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
+      "id": "meituan-longcat/LongCat-2.5",
+      "title": "meituan-longcat/LongCat-2.5",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-2.5",
+      "score": 117
+    },
+    {
+      "source": "huggingface",
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "title": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "score": 113
+    },
+    {
+      "source": "huggingface",
+      "id": "LiquidAI/LFM3-1.7B",
+      "title": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "score": 102
+    },
+    {
+      "source": "huggingface",
+      "id": "KRAFTON/Raon-1-nano",
+      "title": "KRAFTON/Raon-1-nano",
+      "url": "https://huggingface.co/KRAFTON/Raon-1-nano",
+      "score": 99
+    },
+    {
+      "source": "huggingface",
+      "id": "MinimaLabs/KLM-1.6",
+      "title": "MinimaLabs/KLM-1.6",
+      "url": "https://huggingface.co/MinimaLabs/KLM-1.6",
       "score": 98
     },
     {
       "source": "huggingface",
-      "id": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
-      "title": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
-      "url": "https://huggingface.co/AtomicChat/LFM3-1.7B-Uncensored-GGUF",
-      "score": 74
+      "id": "Edge0/Edge0-145B-q3k",
+      "title": "Edge0/Edge0-145B-q3k",
+      "url": "https://huggingface.co/Edge0/Edge0-145B-q3k",
+      "score": 91
     },
     {
       "source": "huggingface",
       "id": "taobao-mnn/MNN-Pocket-0.3B",
       "title": "taobao-mnn/MNN-Pocket-0.3B",
       "url": "https://huggingface.co/taobao-mnn/MNN-Pocket-0.3B",
-      "score": 72
+      "score": 80
+    },
+    {
+      "source": "huggingface",
+      "id": "MiniMaxAI/MiniMax-H3-Image-PE",
+      "title": "MiniMaxAI/MiniMax-H3-Image-PE",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE",
+      "score": 79
+    },
+    {
+      "source": "huggingface",
+      "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic",
+      "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-4B-UNCENSORED-heretic",
+      "score": 67.19999999999999
     },
     {
       "source": "hackernews",
-      "id": "50380273",
-      "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
-      "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
-      "score": 29
+      "id": "50510760",
+      "title": "Show HN: Minute – An Offline Meeting Notetaker Using Local LLMs",
+      "url": "https://minutenotes.app/",
+      "score": 10
     },
     {
       "source": "hackernews",
-      "id": "50350499",
-      "title": "Local Inference with LLMs",
-      "url": "https://jacquesmattheij.com/local-inference-with-large-language-models/",
-      "score": 7
-    },
-    {
-      "source": "hackernews",
-      "id": "50391647",
-      "title": "Ask HN: Is anyone running multi/always-on agents that don't cost a fortune?",
-      "url": "https://news.ycombinator.com/item?id=50391647",
-      "score": 6
-    },
-    {
-      "source": "hackernews",
-      "id": "50393793",
-      "title": "Show HN: Botel – always reachable agents you pay for only while they're working",
-      "url": "https://botel.dev",
+      "id": "50438931",
+      "title": "Show HN: Tokspur a 3x faster open source inference engine for Macs",
+      "url": "https://github.com/san-digital/tokspur",
       "score": 4
     },
     {
       "source": "hackernews",
-      "id": "50392347",
-      "title": "Show HN: Grid – A Hold'em arena where your AI agent plays your strategy (Beta)",
-      "url": "https://penguinbase.com/game-install?game=192471728&ref=hn",
+      "id": "50507341",
+      "title": "Show HN: A local-first AI agent for the desktop, no Electron, any LLM endpoint",
+      "url": "https://github.com/Scronkfinkle/byob",
       "score": 4
     },
     {
       "source": "hackernews",
-      "id": "50342701",
-      "title": "NeoRouter – Self-hosted routing for free, paid and local LLMs",
-      "url": "https://github.com/NeoLabs-Systems/NeoRouter",
+      "id": "50448400",
+      "title": "Show HN: Rystic – Stateful Local Simulators of Slack, GitHub and Linear",
+      "url": "https://www.rystic.ai",
+      "score": 4
+    },
+    {
+      "source": "hackernews",
+      "id": "50483930",
+      "title": "I built a tool to find local LLMs that fit your hardware",
+      "url": "https://thinkidiot.com/tools/local-model-finder",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "50391446",
-      "title": "Ask HN: How's your home-cooked software revolution going?",
-      "url": "https://news.ycombinator.com/item?id=50391446",
+      "id": "50456509",
+      "title": "Show HN: Anathem – local memory for coding agents, no LLM and no daemon",
+      "url": "https://gitlab.com/__alexander__/anathem",
       "score": 3
     },
     {
       "source": "hackernews",
-      "id": "50413587",
-      "title": "Show HN: Lipwise",
-      "url": "https://getlipwise.com/",
-      "score": 3
-    },
-    {
-      "source": "hackernews",
-      "id": "50365750",
-      "title": "Show HN: Swarm World – local LLM creatures living in a little tile world",
-      "url": "https://swarm-world.4rc4de.com/public/app/",
+      "id": "50456646",
+      "title": "Inside Llama.cpp: How Local LLMs Run on Your Hardware [video]",
+      "url": "https://www.youtube.com/watch?v=saXrLnzWTD0",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "50413739",
-      "title": "I made an open-web protocol for local LLM storage sharing",
-      "url": "https://joshuadd79.github.io/bring-your-own-brain/",
+      "id": "50514264",
+      "title": "Show HN: OpenButterfly – Tracking the environmental impact of the AI ecosystem",
+      "url": "https://openbutterfly.com",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "50388641",
-      "title": "Run local LLMs on multiple Android, iOS phones",
-      "url": "https://github.com/orailnoor/cross-platform-llm-client",
+      "id": "50446007",
+      "title": "Show HN: Cloakroom – Keeps secrets away from agents",
+      "url": "https://github.com/shanjeevrajendran/cloakroom",
       "score": 2
     },
     {
       "source": "hackernews",
-      "id": "50355440",
-      "title": "Ask HN: Best local LLM options under 2500 USD?",
-      "url": "https://news.ycombinator.com/item?id=50355440",
+      "id": "50472951",
+      "title": "Building a Steam Tag Analyzer That Runs in the Browser",
+      "url": "https://apanasik.com/blog/building-steam-tag-analyzer-and-local-llms/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "50469853",
+      "title": "Show HN: ReadyStack.dev – Bit-for-bit reproducible OSS containers",
+      "url": "https://news.ycombinator.com/item?id=50469853",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "50448161",
+      "title": "Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses",
+      "url": "https://github.com/OddlyGoods/peep-note",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "50479186",
+      "title": "Show HN: Chap – Meeting notes from live captions (no bot) with any LLM or agent",
+      "url": "https://chatpanel.net/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "50439591",
+      "title": "Show HN: AI Vision Index, private tests of how well 36 AI models see",
+      "url": "https://aivisionindex.com/",
+      "score": 2
+    },
+    {
+      "source": "hackernews",
+      "id": "50488267",
+      "title": "MapNet: Live, permission-aware retrieval for local LLMs",
+      "url": "https://github.com/devinvok/MapNet",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "50412775",
-      "title": "High level API for local LLMs in Node",
-      "url": "https://github.com/CREATORS-INDUSTRIES/llm",
+      "id": "50446310",
+      "title": "Satori – Offline Android voice notes with on-device STT and local LLMs",
+      "url": "https://github.com/TinkeringDao/satori",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "50412418",
-      "title": "Show HN: aiport – A self-improving local LLM gateway for the erratic vibe coder",
-      "url": "https://github.com/harelix/aiport",
+      "id": "50439671",
+      "title": "Show HN: Simstim – local call transcription on Mac into .md files",
+      "url": "https://github.com/pgrekovich/simstim",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "50403212",
-      "title": "OMLX: Use a second Mac to speed up local LLM prefill 2.9x",
-      "url": "https://github.com/jundot/omlx/releases/tag/v0.7.4.dev1",
+      "id": "50460951",
+      "title": "Keeping names, emails and phone numbers out of LLM prompts with a local proxy",
+      "url": "https://github.com/rmpmrepo1278/swapback",
       "score": 1
     },
     {
       "source": "hackernews",
-      "id": "50350000",
-      "title": "Measure the energy and CO2 of local LLMs",
-      "url": "https://github.com/fvaleye/tracarbon",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "50342999",
-      "title": "PaidinToken – Open LLM Token Pricing and Local GPU VRAM Calculator",
-      "url": "https://www.paidintoken.com/ai/hardware",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "50361973",
-      "title": "Ask HN: Advice on local efficient analogical retrieval?",
-      "url": "https://news.ycombinator.com/item?id=50361973",
-      "score": 1
-    },
-    {
-      "source": "hackernews",
-      "id": "50350269",
-      "title": "Trim - local proxy that compresses coding prompts before they reach your LLM",
-      "url": "https://github.com/usetrim/trim",
+      "id": "50454344",
+      "title": "Show HN: EarthData – find places to visit or live that match what you care about",
+      "url": "https://earthdata.io/en",
       "score": 1
     }
   ]
